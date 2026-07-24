@@ -1,0 +1,7 @@
+{
+  "region": "eastern_europe",
+  "countries": [
+    "PL", "CZ", "SK", "HU", "RO", "BG", "UA", "BY", "MD",
+    "RS", "ME", "BA", "MK", "AL", "XK", "LT", "LV", "EE"
+  ]
+}

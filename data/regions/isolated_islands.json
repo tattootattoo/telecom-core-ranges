@@ -1,0 +1,16 @@
+{
+  "region": "isolated_islands",
+  "note": "Indian Ocean countries classified under Africa (MG, MU, SC, KM) are already listed in africa.json and are not repeated here to avoid duplication",
+  "sub_groups": {
+    "pacific": [
+      "FJ", "PG", "SB", "VU", "WS", "TO", "KI", "FM",
+      "MH", "NR", "PW", "TV", "NC", "PF", "GU", "CK"
+    ],
+    "caribbean": [
+      "CU", "DO", "HT", "JM", "TT", "BS", "BB", "GD", "LC",
+      "VC", "AG", "DM", "KN", "BZ", "PR", "AW", "CW", "SX",
+      "BM", "TC", "VG", "VI", "KY", "MS", "AI", "GP", "MQ"
+    ],
+    "indian_ocean": ["MV"]
+  }
+}

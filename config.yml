@@ -1,0 +1,51 @@
+# General project settings
+
+cache:
+  dir: "data/asn_cache"
+  ttl_days: 30          # queries for the same ASN aren't repeated before this many days pass
+
+rate_limit:
+  ripestat_delay_seconds: 0.5
+  peeringdb_delay_seconds: 1.0
+
+# Batch size per run (to avoid unbounded run time in GitHub Actions).
+# GitHub-hosted runners have a hard 6-hour (360 min) ceiling per job that cannot be
+# raised — only lowered. The workflow's timeout-minutes is set to 300, so these numbers
+# are sized to comfortably finish within that window on a typical run, not the full 360.
+# 6 countries / 400 ASNs used to take ~16 minutes; these are a first scaled-up step —
+# watch the actual run duration in the Actions tab and raise further if there's headroom.
+batch:
+  max_countries_per_run: 30
+  max_asns_per_run: 2500
+
+classification:
+  # PeeringDB types accepted as "Core / Backbone".
+  # Note: PeeringDB's real info_type values are things like NSP, Cable/DSL/ISP,
+  # Enterprise, Content, Route Server, Route Collector, Network Services,
+  # Educational/Research, Non-Profit, Government — there is no "Backbone" value, so an
+  # earlier version of this list included one that could never match anything. NSP is
+  # PeeringDB's actual category for backbone/transit providers; the "backbone" keyword
+  # below still catches it separately via the network's name.
+  accept_info_types:
+    - "NSP"
+    - "Route Server"
+  # Types explicitly rejected (end-user networks)
+  reject_info_types:
+    - "Cable/DSL/ISP"
+    - "Enterprise"
+    - "Content"
+  # Keywords in the AS name that support classifying it as Core even if not found in PeeringDB
+  name_keywords_accept:
+    - "backbone"
+    - "transit"
+    - "core"
+    - "ix"
+    - "carrier"
+    - "wholesale"
+    - "international"
+  # Minimum number of announced prefixes for an ASN to be considered an infrastructure network (excludes very small user networks)
+  min_announced_prefixes: 1
+
+output:
+  combined_file: "output/all_core_ranges.csv"
+  by_region_dir: "output/by_region"
