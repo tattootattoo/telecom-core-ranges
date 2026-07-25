@@ -12627,6 +12627,264 @@ eastern_europe,MK,34547,Telesmart Telekom,15786,NSP,60,146.255.67.0/24
 eastern_europe,MK,34547,Telesmart Telekom,15786,NSP,60,5.32.183.0/24
 eastern_europe,MK,34547,Telesmart Telekom,15786,NSP,60,146.255.78.0/23
 eastern_europe,MK,34547,Telesmart Telekom,15786,NSP,60,146.255.66.0/24
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,2a14:7580:c300::/40
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,2a14:7583:900::/40
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,2a14:7583:c00::/40
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,2a14:7583:b00::/40
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,2a14:7583:a00::/40
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,2a0a:79c7:f400::/40
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,217.60.96.0/24
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,2a0f:6284:f::/48
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,2a14:7583:f00::/40
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,2a0a:79c7:f600::/40
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,2a14:7583:5b00::/40
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,2a14:7583:200::/39
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,2a0a:79c7:f500::/40
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,195.144.24.0/24
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,2a0a:79c7:f200::/40
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,2a14:7583:e00::/40
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,85.155.228.0/24
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,2a0a:79c7:f300::/40
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,2a14:7580:ff99::/48
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,2a14:7583::/39
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,2602:f704:c00::/38
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,2a0a:79c7:f800::/40
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,2a14:7580:c000::/40
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,2a0a:79c7:fb00::/40
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,2a14:7583:d00::/40
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,31.57.56.0/24
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,2a0a:79c7:f700::/40
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,2a14:7583:800::/40
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,2a0a:79c7:ff00::/40
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,2a0a:79c7:fa00::/40
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,31.59.141.0/24
+eastern_europe,AL,210464,AVS ISP,37809,NSP,60,2a10:fa81:b00::/40
+eastern_europe,AL,57388,I.B.C-TELECOM,41394,Route Server,60,185.85.152.0/22
+eastern_europe,AL,57388,I.B.C-TELECOM,41394,Route Server,60,130.0.28.0/24
+eastern_europe,AL,57388,I.B.C-TELECOM,41394,Route Server,60,130.0.31.0/24
+eastern_europe,AL,57388,I.B.C-TELECOM,41394,Route Server,60,185.139.4.0/24
+eastern_europe,AL,57388,I.B.C-TELECOM,41394,Route Server,60,130.0.27.0/24
+eastern_europe,AL,57388,I.B.C-TELECOM,41394,Route Server,60,130.0.24.0/24
+eastern_europe,AL,57388,I.B.C-TELECOM,41394,Route Server,60,130.0.24.0/21
+eastern_europe,AL,57388,I.B.C-TELECOM,41394,Route Server,60,2a02:dd00::/29
+eastern_europe,AL,57388,I.B.C-TELECOM,41394,Route Server,60,2a02:dd00:1b::/48
+eastern_europe,AL,57388,I.B.C-TELECOM,41394,Route Server,60,130.0.26.0/24
+eastern_europe,AL,57388,I.B.C-TELECOM,41394,Route Server,60,2a02:dd01:9ff0::/48
+eastern_europe,AL,57388,I.B.C-TELECOM,41394,Route Server,60,130.0.30.0/24
+eastern_europe,AL,57388,I.B.C-TELECOM,41394,Route Server,60,2a02:dd00:1a::/48
+eastern_europe,AL,57388,I.B.C-TELECOM,41394,Route Server,60,130.0.25.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,2a0d:4a46::/32
+eastern_europe,AL,197706,Keminet,40779,NSP,60,2a0d:27c0::/29
+eastern_europe,AL,197706,Keminet,40779,NSP,60,2a0f:42c0::/29
+eastern_europe,AL,197706,Keminet,40779,NSP,60,45.74.145.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,209.23.45.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,2a0d:27c4::/32
+eastern_europe,AL,197706,Keminet,40779,NSP,60,2a0e:abc0::/29
+eastern_europe,AL,197706,Keminet,40779,NSP,60,209.23.46.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,188.68.0.0/23
+eastern_europe,AL,197706,Keminet,40779,NSP,60,45.142.26.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,2a0d:4943::/32
+eastern_europe,AL,197706,Keminet,40779,NSP,60,2a04:27c0::/29
+eastern_europe,AL,197706,Keminet,40779,NSP,60,195.146.28.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,195.146.22.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,103.124.165.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,2a0e:d4c0::/29
+eastern_europe,AL,197706,Keminet,40779,NSP,60,144.48.55.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,31.171.153.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,2a0e:3f00::/29
+eastern_europe,AL,197706,Keminet,40779,NSP,60,2a0d:4a40::/29
+eastern_europe,AL,197706,Keminet,40779,NSP,60,103.124.167.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,31.171.154.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,2a0f:4780::/29
+eastern_europe,AL,197706,Keminet,40779,NSP,60,195.146.18.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,195.146.24.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,109.104.140.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,185.53.101.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,144.48.54.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,2a09:6ec0::/29
+eastern_europe,AL,197706,Keminet,40779,NSP,60,195.146.16.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,45.74.144.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,31.171.152.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,2a0d:42c0::/29
+eastern_europe,AL,197706,Keminet,40779,NSP,60,109.104.141.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,45.67.0.0/22
+eastern_europe,AL,197706,Keminet,40779,NSP,60,195.146.20.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,2a0f:a880::/29
+eastern_europe,AL,197706,Keminet,40779,NSP,60,195.146.30.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,45.74.147.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,2a0e:abc1::/32
+eastern_europe,AL,197706,Keminet,40779,NSP,60,31.171.155.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,2a0e:4f05::/32
+eastern_europe,AL,197706,Keminet,40779,NSP,60,173.245.217.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,2a0d:4940::/29
+eastern_europe,AL,197706,Keminet,40779,NSP,60,2a05:e9c0:9200::/40
+eastern_europe,AL,197706,Keminet,40779,NSP,60,185.53.100.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,2a0e:4f00::/29
+eastern_europe,AL,197706,Keminet,40779,NSP,60,45.74.146.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,209.23.47.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,209.23.44.0/24
+eastern_europe,AL,197706,Keminet,40779,NSP,60,2a0d:1dc0::/29
+eastern_europe,AL,197706,Keminet,40779,NSP,60,2a09:6e40::/29
+eastern_europe,AL,197706,Keminet,40779,NSP,60,195.146.26.0/24
+eastern_europe,AL,48265,ITirana,25865,NSP,60,91.210.138.0/24
+eastern_europe,AL,48265,ITirana,25865,NSP,60,91.210.136.0/24
+eastern_europe,AL,48265,ITirana,25865,NSP,60,91.210.137.0/24
+eastern_europe,AL,48265,ITirana,25865,NSP,60,109.104.129.0/24
+eastern_europe,AL,48265,ITirana,25865,NSP,60,109.104.131.0/24
+eastern_europe,AL,48265,ITirana,25865,NSP,60,91.210.139.0/24
+eastern_europe,AL,48265,ITirana,25865,NSP,60,109.104.128.0/24
+eastern_europe,AL,48265,ITirana,25865,NSP,60,109.104.130.0/24
+eastern_europe,AL,48265,ITirana,25865,NSP,60,109.104.144.0/24
+eastern_europe,AL,48265,ITirana,25865,NSP,60,109.104.145.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.39.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.48.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.63.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.62.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.59.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.61.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.38.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.42.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.41.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.32.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.33.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.34.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,37.35.69.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.37.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.60.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,37.35.70.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,37.35.64.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.49.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,185.173.205.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,37.35.66.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.53.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.35.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.44.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.45.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.40.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.50.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.32.0/19
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.47.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.57.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,37.35.71.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,37.35.68.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,37.35.65.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,185.173.204.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.55.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.51.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,2a0b:6300::/29
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,185.173.206.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.58.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.43.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.52.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.56.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.46.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,37.35.67.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,185.173.204.0/22
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.36.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,84.22.54.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,185.173.207.0/24
+eastern_europe,AL,33983,ARTMOTION,14735,NSP,60,37.35.64.0/21
+eastern_europe,AL,21246,Ipko Telecommunication,10765,NSP,60,91.187.104.0/24
+eastern_europe,AL,21246,Ipko Telecommunication,10765,NSP,60,91.187.96.0/19
+eastern_europe,AL,21246,Ipko Telecommunication,10765,NSP,60,185.78.224.0/22
+eastern_europe,AL,21246,Ipko Telecommunication,10765,NSP,60,80.80.160.0/20
+eastern_europe,AL,21246,Ipko Telecommunication,10765,NSP,60,80.80.161.0/24
+eastern_europe,AL,21246,Ipko Telecommunication,10765,NSP,60,46.99.64.0/18
+eastern_europe,AL,21246,Ipko Telecommunication,10765,NSP,60,46.99.200.0/24
+eastern_europe,AL,21246,Ipko Telecommunication,10765,NSP,60,46.99.249.0/24
+eastern_europe,AL,21246,Ipko Telecommunication,10765,NSP,60,46.99.239.0/24
+eastern_europe,AL,21246,Ipko Telecommunication,10765,NSP,60,91.187.108.0/24
+eastern_europe,AL,21246,Ipko Telecommunication,10765,NSP,60,2a03:4b80::/32
+eastern_europe,AL,21246,Ipko Telecommunication,10765,NSP,60,46.99.0.0/18
+eastern_europe,AL,21246,Ipko Telecommunication,10765,NSP,60,46.99.0.0/16
+eastern_europe,AL,21246,Ipko Telecommunication,10765,NSP,60,46.99.196.0/24
+eastern_europe,AL,208734,ELSA-TECH,33762,NSP,60,45.84.116.0/22
+eastern_europe,AL,208734,ELSA-TECH,33762,NSP,60,45.84.116.0/24
+eastern_europe,AL,208734,ELSA-TECH,33762,NSP,60,45.84.119.0/24
+eastern_europe,AL,208734,ELSA-TECH,33762,NSP,60,45.84.117.0/24
+eastern_europe,AL,208734,ELSA-TECH,33762,NSP,60,45.84.118.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,5.206.237.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,185.191.165.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,87.238.208.0/21
+eastern_europe,AL,206262,TelKos,20499,NSP,60,185.186.83.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,147.78.162.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,185.191.164.0/22
+eastern_europe,AL,206262,TelKos,20499,NSP,60,185.174.208.0/22
+eastern_europe,AL,206262,TelKos,20499,NSP,60,95.86.40.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,95.86.40.0/22
+eastern_europe,AL,206262,TelKos,20499,NSP,60,95.86.42.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,185.179.31.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,185.179.28.0/22
+eastern_europe,AL,206262,TelKos,20499,NSP,60,2a0c:b342::/32
+eastern_europe,AL,206262,TelKos,20499,NSP,60,185.174.211.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,185.174.209.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,185.191.167.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,37.26.65.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,87.238.210.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,147.78.160.0/22
+eastern_europe,AL,206262,TelKos,20499,NSP,60,2a0c:b340::/29
+eastern_europe,AL,206262,TelKos,20499,NSP,60,2a0c:b341::/32
+eastern_europe,AL,206262,TelKos,20499,NSP,60,185.171.60.0/22
+eastern_europe,AL,206262,TelKos,20499,NSP,60,185.186.81.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,95.86.56.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,147.78.161.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,5.206.236.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,37.26.70.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,87.238.213.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,87.238.212.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,95.86.58.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,5.206.232.0/21
+eastern_europe,AL,206262,TelKos,20499,NSP,60,5.206.233.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,147.78.160.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,37.26.64.0/21
+eastern_europe,AL,206262,TelKos,20499,NSP,60,95.86.41.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,95.86.56.0/22
+eastern_europe,AL,206262,TelKos,20499,NSP,60,185.186.80.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,95.86.59.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,185.179.30.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,185.174.208.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,185.186.80.0/22
+eastern_europe,AL,206262,TelKos,20499,NSP,60,185.191.164.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,5.206.238.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,87.238.209.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,185.171.62.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,185.174.210.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,5.206.239.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,185.171.61.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,5.206.235.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,87.238.211.0/24
+eastern_europe,AL,206262,TelKos,20499,NSP,60,185.171.60.0/24
+eastern_europe,AL,8661,Posta dhe telekomi i Kosoves,20394,NSP,60,213.163.96.0/19
+eastern_europe,AL,8661,Posta dhe telekomi i Kosoves,20394,NSP,60,213.163.98.0/24
+eastern_europe,AL,8661,Posta dhe telekomi i Kosoves,20394,NSP,60,178.175.0.0/18
+eastern_europe,AL,8661,Posta dhe telekomi i Kosoves,20394,NSP,60,213.163.97.0/24
+eastern_europe,AL,8661,Posta dhe telekomi i Kosoves,20394,NSP,60,213.163.100.0/22
+eastern_europe,AL,8661,Posta dhe telekomi i Kosoves,20394,NSP,60,178.175.0.0/17
+eastern_europe,AL,8661,Posta dhe telekomi i Kosoves,20394,NSP,60,213.163.112.0/20
+eastern_europe,AL,8661,Posta dhe telekomi i Kosoves,20394,NSP,60,213.163.104.0/21
+eastern_europe,AL,8661,Posta dhe telekomi i Kosoves,20394,NSP,60,178.175.64.0/18
+eastern_europe,AL,8661,Posta dhe telekomi i Kosoves,20394,NSP,60,213.163.99.0/24
+eastern_europe,AL,8661,Posta dhe telekomi i Kosoves,20394,NSP,60,185.47.188.0/22
+eastern_europe,AL,8661,Posta dhe telekomi i Kosoves,20394,NSP,60,213.163.96.0/24
+eastern_europe,AL,8661,Posta dhe telekomi i Kosoves,20394,NSP,60,213.163.96.0/22
+eastern_europe,AL,8661,Posta dhe telekomi i Kosoves,20394,NSP,60,213.163.121.0/24
+eastern_europe,AL,29170,KujtesaNET,10875,NSP,60,185.67.176.0/22
+eastern_europe,AL,29170,KujtesaNET,10875,NSP,60,185.190.132.0/22
+eastern_europe,AL,29170,KujtesaNET,10875,NSP,60,82.114.64.0/19
+eastern_europe,AL,29170,KujtesaNET,10875,NSP,60,82.114.80.0/24
+eastern_europe,AL,29170,KujtesaNET,10875,NSP,60,178.132.218.0/24
+eastern_europe,AL,29170,KujtesaNET,10875,NSP,60,46.19.225.0/24
+eastern_europe,AL,29170,KujtesaNET,10875,NSP,60,82.114.77.0/24
+eastern_europe,AL,29170,KujtesaNET,10875,NSP,60,178.132.216.0/21
+eastern_europe,AL,29170,KujtesaNET,10875,NSP,60,82.114.85.0/24
+eastern_europe,AL,29170,KujtesaNET,10875,NSP,60,82.114.65.0/24
+eastern_europe,AL,29170,KujtesaNET,10875,NSP,60,82.114.88.0/24
+eastern_europe,AL,29170,KujtesaNET,10875,NSP,60,82.114.67.0/24
+eastern_europe,AL,29170,KujtesaNET,10875,NSP,60,185.67.178.0/24
+eastern_europe,AL,29170,KujtesaNET,10875,NSP,60,193.0.254.0/24
+eastern_europe,AL,29170,KujtesaNET,10875,NSP,60,46.19.224.0/21
+eastern_europe,AL,29170,KujtesaNET,10875,NSP,60,2a04:3080::/29
+eastern_europe,AL,29170,KujtesaNET,10875,NSP,60,46.19.224.0/24
 eastern_europe,LT,42549,Baltnetos komunikacijos Frankfurt,18261,NSP,60,45.82.34.0/24
 eastern_europe,LT,8764,"Telia Lietuva, AB",1392,NSP,60,88.118.144.0/22
 eastern_europe,LT,8764,"Telia Lietuva, AB",1392,NSP,60,78.61.176.0/20
@@ -13642,3 +13900,832 @@ eastern_europe,LT,8764,"Telia Lietuva, AB",1392,NSP,60,188.69.124.0/22
 eastern_europe,LT,8764,"Telia Lietuva, AB",1392,NSP,60,2a00:1eb8:c104::/47
 eastern_europe,LT,8764,"Telia Lietuva, AB",1392,NSP,60,2a00:1eb8:c102::/47
 eastern_europe,LT,8764,"Telia Lietuva, AB",1392,NSP,60,2a00:1eb8:a034::/47
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,92.62.129.0/24
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,92.62.135.0/24
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,176.118.198.0/24
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,79.142.112.0/20
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,5.133.65.0/24
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,92.62.139.0/24
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,2a14:54c0::/29
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,92.62.138.0/24
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,213.197.128.0/18
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,92.62.141.0/24
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,91.103.96.0/21
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,85.209.231.0/24
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,2a0d:5000:2::/48
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,92.62.132.0/23
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,89.249.80.0/20
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,92.62.143.0/24
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,2001:1ab9::/32
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,185.65.48.0/24
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,185.11.26.0/24
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,91.103.255.0/24
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,92.62.128.0/20
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,92.62.140.0/24
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,2001:1ab8::/31
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,45.82.32.0/22
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,45.82.32.0/24
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,92.62.136.0/24
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,92.62.128.0/24
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,185.216.209.0/24
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,195.14.160.0/19
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,2001:1ab8::/32
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,38.210.227.0/24
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,92.62.142.0/24
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,92.62.130.0/24
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,92.62.137.0/24
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,185.140.228.0/24
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,217.117.16.0/20
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,77.241.192.0/20
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,185.40.6.0/24
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,5.133.66.0/24
+eastern_europe,LT,15440,Baltnetos Komunikacijos Customers,18261,NSP,60,92.62.131.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.177.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.251.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.2.0/23
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.166.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.137.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.158.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.159.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.38.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.76.0/22
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.104.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.171.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.18.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.170.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.147.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.183.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.71.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.250.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.115.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.171.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.86.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,2001:4048::/32
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.85.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.125.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.154.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.3.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.167.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.124.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.170.0/23
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.24.0/23
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.153.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.140.0/22
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.164.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.165.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.28.0/22
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.8.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.134.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.166.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.181.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.82.0/23
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.157.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.167.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.136.0/21
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.132.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.162.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,45.13.52.0/22
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.84.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.150.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.116.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.173.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.136.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.126.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.142.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.114.0/23
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.114.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.168.0/23
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.124.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.156.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.176.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.165.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.117.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.105.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.182.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.140.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.78.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.106.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.125.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.155.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.149.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.174.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.148.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.175.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.178.0/23
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.180.0/24
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.116.0/23
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.0.0/22
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,84.32.120.0/22
+eastern_europe,LT,33922,Nacionalinis Telekomunikaciju Tinklas,17576,NSP,60,88.216.107.0/24
+eastern_europe,LT,28917,FIORD,1717,NSP,60,80.77.165.0/24
+eastern_europe,LT,28917,FIORD,1717,NSP,60,80.77.166.0/24
+eastern_europe,LT,28917,FIORD,1717,NSP,60,81.95.42.0/24
+eastern_europe,LT,28917,FIORD,1717,NSP,60,80.77.167.0/24
+eastern_europe,LT,28917,FIORD,1717,NSP,60,80.77.164.0/24
+eastern_europe,LT,28917,FIORD,1717,NSP,60,91.247.185.0/24
+eastern_europe,LT,28917,FIORD,1717,NSP,60,2a11:ca40::/29
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f502:174::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.116.129.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f503:172::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f502:180::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,85.254.98.0/23
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,85.254.141.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f502:17e::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,213.226.148.0/22
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.177.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.116.155.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,213.252.220.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.190.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f502:27c::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.116.176.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,86.38.62.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,85.254.176.0/23
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.121.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.184.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,86.38.108.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.179.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f503:250::/45
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f503:158::/45
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,213.226.191.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.181.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,85.254.100.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.160.0/21
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f503:170::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.117.125.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.218.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.116.143.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f503:17a::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,213.226.185.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.117.255.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f503:276::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.136.0/21
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,86.38.75.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.116.235.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.104.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.117.249.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.116.174.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,86.38.97.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f502:280::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,213.226.145.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,86.38.230.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,213.226.144.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,213.252.234.0/23
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.117.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.217.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,85.254.169.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,85.254.95.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f502:278::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,159.148.73.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f503:27e::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.102.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f503:258::/45
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,86.38.89.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.144.0/21
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,213.252.252.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.191.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,86.38.228.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,86.38.153.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.208.0/21
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f503:160::/45
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.116.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.128.0/21
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.116.124.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.220.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.116.160.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f503:27a::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,213.252.254.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.207.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,213.252.192.0/20
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,86.38.74.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.185.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.116.232.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,86.38.41.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,85.254.96.0/23
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,213.226.142.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f503:17c::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.117.225.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f503:270::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,85.254.152.0/22
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,213.252.224.0/22
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,85.254.102.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f502:274::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.117.69.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,85.254.71.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f502:17a::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.112.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.117.127.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,86.38.152.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f500::/29
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f503:268::/45
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.222.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,213.226.161.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.187.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,86.38.81.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f503:180::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f503:168::/45
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f503:176::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,86.38.215.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f503:17e::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.47.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.116.162.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,91.190.49.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,85.254.149.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.117.221.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.46.139.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.168.0/22
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f503:27c::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.205.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,213.226.175.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.240.0/20
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.117.14.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f502:27e::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.113.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f503:272::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f502:272::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f502:17c::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,85.254.69.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,213.226.140.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.61.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,85.254.92.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.116.178.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,85.254.161.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,85.254.94.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f502:178::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f503:274::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.100.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f502:250::/44
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,159.148.249.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.106.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.115.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.172.0/22
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.120.0/22
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.117.141.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.103.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.101.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.182.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.183.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.117.165.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.176.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f502:27a::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,85.254.73.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,85.254.159.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.206.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f502:176::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.196.0/22
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,86.38.72.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.152.0/21
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.114.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.224.0/20
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,86.38.245.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.116.151.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.192.0/22
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,185.189.154.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,85.254.93.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,86.38.52.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,213.226.176.0/21
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,86.38.73.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f502:170::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f502:160::/44
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f503:260::/45
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.117.92.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.117.220.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,86.38.84.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.186.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.221.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,86.38.1.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.117.10.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.105.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.223.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.188.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f503:278::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,213.252.236.0/23
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.219.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f502:260::/44
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,85.254.168.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,213.252.200.0/22
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.200.0/23
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.180.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.117.247.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,217.9.248.0/23
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,85.254.101.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,213.226.190.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,85.254.151.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,85.254.170.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.117.156.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f503:150::/45
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,213.252.223.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,213.226.128.0/18
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,213.226.141.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f503:280::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f503:178::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.117.138.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,91.190.48.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.178.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.189.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f502:172::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,89.117.93.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f503:174::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.0.0/16
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.216.0/24
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f502:276::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f502:270::/47
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.176.0/20
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,2a00:f502:150::/44
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,84.15.124.0/22
+eastern_europe,LT,13194,Bite Lietuva,5442,NSP,60,85.254.123.0/24
+eastern_europe,LT,201201,Delska Lithuania 201201,12713,NSP,60,2a03:67e0::/32
+eastern_europe,LT,201201,Delska Lithuania 201201,12713,NSP,60,185.140.230.0/24
+eastern_europe,LT,201201,Delska Lithuania 201201,12713,NSP,60,185.82.92.0/22
+eastern_europe,LT,201201,Delska Lithuania 201201,12713,NSP,60,213.169.219.0/24
+eastern_europe,LT,201201,Delska Lithuania 201201,12713,NSP,60,81.16.238.0/23
+eastern_europe,LT,201201,Delska Lithuania 201201,12713,NSP,60,185.140.231.0/24
+eastern_europe,LT,201201,Delska Lithuania 201201,12713,NSP,60,81.16.236.0/23
+eastern_europe,LT,201201,Delska Lithuania 201201,12713,NSP,60,81.16.233.0/24
+eastern_europe,LT,201201,Delska Lithuania 201201,12713,NSP,60,81.16.234.0/23
+eastern_europe,LT,201201,Delska Lithuania 201201,12713,NSP,60,185.84.44.0/22
+eastern_europe,LT,201201,Delska Lithuania 201201,12713,NSP,60,89.117.241.0/24
+eastern_europe,LV,8194,LVRTC Network,1214,NSP,60,2a00:1780:dd00::/40
+eastern_europe,LV,8194,LVRTC Network,1214,NSP,60,212.70.171.0/24
+eastern_europe,LV,8194,LVRTC Network,1214,NSP,60,195.244.144.0/20
+eastern_europe,LV,8194,LVRTC Network,1214,NSP,60,2a00:1780::/32
+eastern_europe,LV,8194,LVRTC Network,1214,NSP,60,212.70.163.0/24
+eastern_europe,LV,8194,LVRTC Network,1214,NSP,60,31.24.192.0/21
+eastern_europe,LV,8194,LVRTC Network,1214,NSP,60,212.70.160.0/19
+eastern_europe,LV,8194,LVRTC Network,1214,NSP,60,212.70.160.0/23
+eastern_europe,LV,8194,LVRTC Network,1214,NSP,60,31.24.198.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.101.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,85.254.50.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.12.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,80.81.43.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.121.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,85.254.164.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,85.254.147.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.252.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,85.254.187.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.229.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,91.190.58.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.28.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.51.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.118.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,91.190.42.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.17.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.8.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.123.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,217.69.112.0/20
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.40.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.192.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.112.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.189.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.43.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.171.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.91.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.18.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.41.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.194.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.206.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.237.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.65.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.110.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.233.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.94.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,80.81.34.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,85.254.160.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.71.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.115.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,91.190.54.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,91.190.59.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,80.81.37.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.68.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.75.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.70.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,91.190.55.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,80.81.32.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.48.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.4.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.33.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.59.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.219.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,85.254.163.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.162.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,91.190.57.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.139.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.63.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.11.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,2a02:610::/32
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.108.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,109.205.120.0/21
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.193.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.9.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.15.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.87.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,46.19.200.0/21
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.107.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,91.190.34.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.232.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.86.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,85.254.132.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.212.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.84.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.0.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.176.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.209.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.47.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,80.81.45.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.45.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.42.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.83.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.14.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.230.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.207.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.6.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.79.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,94.101.230.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.244.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.19.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.13.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.254.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.156.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.133.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.106.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,85.254.61.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.52.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.95.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.135.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.29.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.116.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.7.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.25.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.34.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.81.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.146.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.155.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,185.62.196.0/22
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.64.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.170.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,80.81.46.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,83.223.128.0/19
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.22.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.215.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.31.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,85.254.184.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.161.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.32.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.202.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.113.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.92.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.164.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,85.254.56.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.190.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.10.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.49.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.2.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.238.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.60.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.188.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.72.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.223.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.39.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.217.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,80.81.62.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.37.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.96.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.61.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,85.254.49.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.227.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.250.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,80.81.57.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.3.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.221.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,91.190.56.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,185.27.92.0/22
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,85.254.162.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.154.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.117.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,91.190.36.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.85.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,85.254.186.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,80.81.42.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,80.81.51.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.211.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.127.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.56.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.100.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.1.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.46.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.159.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.213.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,85.254.57.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.201.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,85.254.185.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.36.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.145.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.178.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.111.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,80.81.36.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.67.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,80.81.33.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.57.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.235.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.80.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.185.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.21.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.132.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,85.254.68.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,91.190.35.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.153.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,91.190.52.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,94.101.224.0/20
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.220.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.214.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.16.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.175.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,83.223.155.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.69.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.210.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.196.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,80.81.59.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,80.81.35.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.203.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.168.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.228.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.55.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,85.254.60.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.251.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,176.67.32.0/20
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.76.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.35.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.120.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.20.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,91.190.33.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,80.81.55.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.165.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.53.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.122.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.151.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.78.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.205.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.129.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,85.254.6.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.93.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.152.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,159.148.5.0/24
+eastern_europe,LV,2588,Bite Latvija,13512,NSP,60,91.190.60.0/24
+eastern_europe,LV,8285,Versija SIA,42252,NSP,60,194.8.5.0/24
+eastern_europe,LV,8285,Versija SIA,42252,NSP,60,193.68.90.0/24
+eastern_europe,LV,8285,Versija SIA,42252,NSP,60,193.68.73.0/24
+eastern_europe,LV,8285,Versija SIA,42252,NSP,60,213.21.248.0/21
+eastern_europe,LV,8285,Versija SIA,42252,NSP,60,194.8.6.0/23
+eastern_europe,LV,8285,Versija SIA,42252,NSP,60,213.21.208.0/24
+eastern_europe,LV,8285,Versija SIA,42252,NSP,60,193.68.82.0/24
+eastern_europe,LV,8285,Versija SIA,42252,NSP,60,185.118.76.0/22
+eastern_europe,LV,8285,Versija SIA,42252,NSP,60,213.21.192.0/18
+eastern_europe,LV,8285,Versija SIA,42252,NSP,60,2a0f:1585::/32
+eastern_europe,LV,8285,Versija SIA,42252,NSP,60,193.68.68.0/24
+eastern_europe,LV,8285,Versija SIA,42252,NSP,60,185.220.223.0/24
+eastern_europe,LV,8285,Versija SIA,42252,NSP,60,89.223.75.0/24
+eastern_europe,LV,8285,Versija SIA,42252,NSP,60,194.8.8.0/24
+eastern_europe,LV,8285,Versija SIA,42252,NSP,60,193.68.64.0/19
+eastern_europe,LV,8285,Versija SIA,42252,NSP,60,213.21.201.0/24
+eastern_europe,LV,8285,Versija SIA,42252,NSP,60,193.68.80.0/20
+eastern_europe,LV,8285,Versija SIA,42252,NSP,60,213.21.203.0/24
+eastern_europe,LV,8285,Versija SIA,42252,NSP,60,2a06:e8c0::/29
+eastern_europe,LV,8285,Versija SIA,42252,NSP,60,193.68.83.0/24
+eastern_europe,LV,8285,Versija SIA,42252,NSP,60,213.21.224.0/19
+eastern_europe,LV,8285,Versija SIA,42252,NSP,60,193.68.64.0/20
+eastern_europe,LV,47814,Bite (old Stream Networks),13512,NSP,60,217.69.115.0/24
+eastern_europe,LV,47814,Bite (old Stream Networks),13512,NSP,60,217.69.117.0/24
+eastern_europe,LV,47814,Bite (old Stream Networks),13512,NSP,60,83.223.139.0/24
+eastern_europe,LV,47814,Bite (old Stream Networks),13512,NSP,60,2001:1bf8::/29
+eastern_europe,LV,47814,Bite (old Stream Networks),13512,NSP,60,94.101.228.0/24
+eastern_europe,LV,47814,Bite (old Stream Networks),13512,NSP,60,94.101.238.0/24
+eastern_europe,LV,47814,Bite (old Stream Networks),13512,NSP,60,94.101.224.0/24
+eastern_europe,LV,47814,Bite (old Stream Networks),13512,NSP,60,94.101.234.0/24
+eastern_europe,LV,47814,Bite (old Stream Networks),13512,NSP,60,80.81.44.0/24
+eastern_europe,LV,47814,Bite (old Stream Networks),13512,NSP,60,217.69.118.0/24
+eastern_europe,LV,47814,Bite (old Stream Networks),13512,NSP,60,83.223.149.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,2a02:2330::/29
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,195.13.249.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,195.114.32.0/19
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,87.110.223.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,87.246.144.0/20
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,81.198.56.0/21
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,80.232.150.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,81.198.95.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,84.237.233.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,87.110.0.0/16
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,195.13.229.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,95.68.0.0/17
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,195.13.128.0/17
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,195.13.237.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,195.13.254.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,194.8.24.0/22
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,195.13.225.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,195.122.0.0/19
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,81.198.112.0/20
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,195.122.28.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,81.198.186.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,81.198.0.0/16
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,195.13.245.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,84.237.246.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,62.85.0.0/17
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,195.13.204.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,84.237.210.0/23
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,195.13.201.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,80.232.230.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,80.232.195.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,87.110.192.0/18
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,195.122.29.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,195.13.162.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,81.198.59.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,80.232.190.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,195.35.107.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,80.232.147.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,87.246.160.0/19
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,185.38.56.0/22
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,87.110.252.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,80.232.128.0/17
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,84.237.128.0/17
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,195.122.0.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,46.109.0.0/16
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,195.13.215.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,195.13.200.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,81.198.165.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,195.13.253.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,195.13.228.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,195.13.251.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,87.110.226.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,195.2.96.0/19
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,91.105.0.0/17
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,195.122.26.0/23
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,81.198.160.0/20
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,194.8.16.0/21
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,195.122.18.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,80.232.249.0/24
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,78.84.0.0/16
+eastern_europe,LV,12578,SIA Tet,4879,NSP,60,80.232.255.0/24
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,185.81.128.0/23
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,159.148.200.0/24
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,94.140.112.0/23
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,85.31.96.0/21
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,91.135.80.0/20
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,185.61.150.0/24
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,85.254.5.0/24
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,45.131.100.0/22
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,195.43.82.0/23
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,150.107.202.0/23
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,2a00:c68::/32
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,94.140.116.0/22
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,94.140.120.0/23
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,2a05:8700::/29
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,2a11:66c4::/32
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,5.44.216.0/21
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,46.19.144.0/21
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,94.140.96.0/19
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,87.246.128.0/20
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,159.148.198.0/23
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,91.203.68.0/22
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,193.46.236.0/24
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,80.246.31.0/24
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,185.72.84.0/22
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,91.135.86.0/24
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,86.63.160.0/19
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,185.61.148.0/22
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,85.254.145.0/24
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,94.140.120.0/22
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,185.72.204.0/22
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,185.71.128.0/22
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,188.92.72.0/21
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,185.81.130.0/23
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,185.86.151.0/24
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,159.148.102.0/24
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,91.224.12.0/23
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,80.250.48.0/20
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,85.254.16.0/22
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,31.170.16.0/21
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,94.140.114.0/23
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,2a11:9883::/32
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,185.82.124.0/22
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,185.61.148.0/23
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,94.140.123.0/24
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,94.140.102.0/24
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,85.254.32.0/21
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,85.254.24.0/22
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,89.248.80.0/20
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,2a02:7aa0:4000::/48
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,91.237.98.0/23
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,2a02:7aa0::/34
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,178.249.32.0/21
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,185.81.49.0/24
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,85.254.142.0/23
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,141.136.0.0/21
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,2a11:66c2::/32
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,185.80.236.0/22
+eastern_europe,LV,43513,Nano IT,18986,NSP,60,185.81.48.0/22
+eastern_europe,EE,2586,Elisa Eesti,20978,NSP,60,85.253.0.0/16
+eastern_europe,EE,2586,Elisa Eesti,20978,NSP,60,62.65.192.0/18
+eastern_europe,EE,2586,Elisa Eesti,20978,NSP,60,94.246.224.0/19
+eastern_europe,EE,2586,Elisa Eesti,20978,NSP,60,81.90.112.0/20
+eastern_europe,EE,2586,Elisa Eesti,20978,NSP,60,146.255.176.0/21
+eastern_europe,EE,2586,Elisa Eesti,20978,NSP,60,194.204.0.0/18
+eastern_europe,EE,2586,Elisa Eesti,20978,NSP,60,185.72.28.0/22
+eastern_europe,EE,2586,Elisa Eesti,20978,NSP,60,94.246.216.0/21
+eastern_europe,EE,2586,Elisa Eesti,20978,NSP,60,91.213.43.0/24
+eastern_europe,EE,2586,Elisa Eesti,20978,NSP,60,95.129.192.0/21
+eastern_europe,EE,2586,Elisa Eesti,20978,NSP,60,145.14.32.0/20
+eastern_europe,EE,2586,Elisa Eesti,20978,NSP,60,2001:1530::/32
+eastern_europe,EE,2586,Elisa Eesti,20978,NSP,60,185.34.36.0/22
+eastern_europe,EE,2586,Elisa Eesti,20978,NSP,60,109.163.248.0/21
+eastern_europe,EE,2586,Elisa Eesti,20978,NSP,60,178.251.56.0/21
+eastern_europe,EE,2586,Elisa Eesti,20978,NSP,60,145.14.16.0/20
+eastern_europe,EE,2586,Elisa Eesti,20978,NSP,60,178.23.112.0/21
+eastern_europe,EE,2586,Elisa Eesti,20978,NSP,60,194.55.8.0/22
+eastern_europe,EE,2586,Elisa Eesti,20978,NSP,60,185.13.16.0/22
+eastern_europe,EE,2586,Elisa Eesti,20978,NSP,60,87.119.160.0/19
+eastern_europe,EE,2586,Elisa Eesti,20978,NSP,60,2001:1bf0::/29
+eastern_europe,EE,2586,Elisa Eesti,20978,NSP,60,82.131.0.0/17
+eastern_europe,EE,2586,Elisa Eesti,20978,NSP,60,194.150.64.0/22
+eastern_europe,EE,211494,NARAYANA,40327,NSP,60,185.235.143.0/24
+eastern_europe,EE,211494,NARAYANA,40327,NSP,60,2a0d:a180::/32
+eastern_europe,EE,211494,NARAYANA,40327,NSP,60,185.93.7.0/24
+eastern_europe,EE,47143,TDHN,2317,NSP,60,91.192.116.0/22
+eastern_europe,EE,47143,TDHN,2317,NSP,60,91.192.119.0/24
+eastern_europe,EE,47143,TDHN,2317,NSP,60,91.205.96.0/24
+eastern_europe,EE,47143,TDHN,2317,NSP,60,178.214.121.0/24
+eastern_europe,EE,47143,TDHN,2317,NSP,60,91.205.99.0/24
+eastern_europe,EE,47143,TDHN,2317,NSP,60,195.42.102.0/23
+eastern_europe,EE,47143,TDHN,2317,NSP,60,91.192.118.0/24
+eastern_europe,EE,47143,TDHN,2317,NSP,60,91.205.97.0/24
+eastern_europe,EE,47143,TDHN,2317,NSP,60,207.192.114.0/24
+eastern_europe,EE,47143,TDHN,2317,NSP,60,178.214.120.0/24
+eastern_europe,EE,47143,TDHN,2317,NSP,60,195.42.103.0/24
+eastern_europe,EE,214639,ITM NORD,42161,NSP,60,87.239.135.0/24
+eastern_europe,EE,214639,ITM NORD,42161,NSP,60,2a14:7583:9000::/36
+eastern_europe,EE,214639,ITM NORD,42161,NSP,60,2a14:7584:d005::/48
+eastern_europe,EE,214639,ITM NORD,42161,NSP,60,185.229.221.0/24
+eastern_europe,EE,214639,ITM NORD,42161,NSP,60,2a14:7586:8000::/40
+eastern_europe,EE,214639,ITM NORD,42161,NSP,60,2a14:7584:d000::/36
+eastern_europe,EE,214639,ITM NORD,42161,NSP,60,178.18.147.0/24
+eastern_europe,EE,214639,ITM NORD,42161,NSP,60,2a14:7584:d008::/48
+eastern_europe,EE,214639,ITM NORD,42161,NSP,60,83.243.86.0/24
+eastern_europe,EE,214639,ITM NORD,42161,NSP,60,2a14:7583:fa00::/40
+eastern_europe,EE,214639,ITM NORD,42161,NSP,60,5.178.101.0/24
+eastern_europe,EE,214639,ITM NORD,42161,NSP,60,89.106.86.0/24
+eastern_europe,EE,214639,ITM NORD,42161,NSP,60,94.249.176.0/24
+eastern_europe,EE,214639,ITM NORD,42161,NSP,60,2a14:7586:4000::/36
+eastern_europe,EE,214639,ITM NORD,42161,NSP,60,2a14:7583:2900::/40
+eastern_europe,EE,214639,ITM NORD,42161,NSP,60,89.144.35.0/24
+eastern_europe,EE,214639,ITM NORD,42161,NSP,60,85.93.10.0/24
+eastern_europe,EE,214639,ITM NORD,42161,NSP,60,94.249.225.0/24
+eastern_europe,EE,214639,ITM NORD,42161,NSP,60,5.175.178.0/24
+eastern_europe,EE,214639,ITM NORD,42161,NSP,60,94.249.175.0/24
+eastern_europe,EE,214639,ITM NORD,42161,NSP,60,2a14:7580:b000::/36
+eastern_europe,EE,214639,ITM NORD,42161,NSP,60,94.249.240.0/24
+eastern_europe,EE,214639,ITM NORD,42161,NSP,60,5.83.129.0/24
+eastern_europe,EE,11967,Hop179,40250,NSP,60,2602:f72e:a::/48
+eastern_europe,EE,11967,Hop179,40250,NSP,60,44.32.91.0/24
+eastern_europe,EE,11967,Hop179,40250,NSP,60,130.12.195.0/24
+eastern_europe,EE,11967,Hop179,40250,NSP,60,130.12.194.0/24
+eastern_europe,EE,11967,Hop179,40250,NSP,60,2602:f72e:10::/44
+eastern_europe,EE,11967,Hop179,40250,NSP,60,2602:f72e::/44
+eastern_europe,EE,11967,Hop179,40250,NSP,60,2602:f72e:f::/48
+eastern_europe,EE,11967,Hop179,40250,NSP,60,2602:f72e:80::/48
+eastern_europe,EE,11967,Hop179,40250,NSP,60,23.133.172.0/24
+eastern_europe,EE,11967,Hop179,40250,NSP,60,2a0a:79c0:1301::/48
+eastern_europe,EE,11967,Hop179,40250,NSP,60,2a0b:4e07:2e::/48
+eastern_europe,EE,11967,Hop179,40250,NSP,60,2a0b:4e07:80::/48
+eastern_europe,EE,11967,Hop179,40250,NSP,60,2a0b:4e07:b4::/48
+eastern_europe,EE,11967,Hop179,40250,NSP,60,2602:f72e::/48
+eastern_europe,EE,11967,Hop179,40250,NSP,60,2602:f72e:c::/48
+eastern_europe,EE,11967,Hop179,40250,NSP,60,2a0b:4e07:47::/48
+eastern_europe,EE,11967,Hop179,40250,NSP,60,130.12.194.0/23
+eastern_europe,EE,11967,Hop179,40250,NSP,60,2a0b:4e07:3::/48
+eastern_europe,EE,11967,Hop179,40250,NSP,60,2602:f72e:d::/48
+eastern_europe,EE,11967,Hop179,40250,NSP,60,2602:f72e:6::/48
+eastern_europe,EE,11967,Hop179,40250,NSP,60,2602:f72e:1::/48
+eastern_europe,EE,11967,Hop179,40250,NSP,60,2a0b:4e07:3e::/48
+eastern_europe,EE,11967,Hop179,40250,NSP,60,2602:f72e:8::/47
+eastern_europe,EE,3920,PUSHPKT-OU,43355,NSP,60,185.209.15.0/24
+eastern_europe,EE,3920,PUSHPKT-OU,43355,NSP,60,2a13:adc0:2::/48
+eastern_europe,EE,3920,PUSHPKT-OU,43355,NSP,60,2a13:adc0:3::/48
+eastern_europe,EE,3920,PUSHPKT-OU,43355,NSP,60,103.88.42.0/24
+eastern_europe,EE,3920,PUSHPKT-OU,43355,NSP,60,77.247.111.0/24
+eastern_europe,EE,3920,PUSHPKT-OU,43355,NSP,60,2a13:adc0:1::/48
+eastern_europe,EE,3920,PUSHPKT-OU,43355,NSP,60,117.18.118.0/24
+eastern_europe,EE,3920,PUSHPKT-OU,43355,NSP,60,205.237.104.0/24
+eastern_europe,EE,3920,PUSHPKT-OU,43355,NSP,60,84.247.19.0/24
+eastern_europe,EE,3920,PUSHPKT-OU,43355,NSP,60,212.237.231.0/24
+eastern_europe,EE,3920,PUSHPKT-OU,43355,NSP,60,185.53.91.0/24
+eastern_europe,EE,3920,PUSHPKT-OU,43355,NSP,60,205.237.107.0/24
+eastern_europe,EE,3920,PUSHPKT-OU,43355,NSP,60,117.55.202.0/24
+eastern_europe,EE,3920,PUSHPKT-OU,43355,NSP,60,205.237.105.0/24
+eastern_europe,EE,3920,PUSHPKT-OU,43355,NSP,60,185.241.206.0/24
+eastern_europe,EE,3920,PUSHPKT-OU,43355,NSP,60,205.237.106.0/24
+eastern_europe,EE,3920,PUSHPKT-OU,43355,NSP,60,117.55.203.0/24
+eastern_europe,EE,3920,PUSHPKT-OU,43355,NSP,60,2a13:adc0::/48
+eastern_europe,EE,3920,PUSHPKT-OU,43355,NSP,60,185.53.90.0/24
+eastern_europe,EE,12757,IPTRON.NET,4983,NSP,60,176.124.247.0/24
+eastern_europe,EE,12757,IPTRON.NET,4983,NSP,60,194.0.51.0/24
+eastern_europe,EE,12757,IPTRON.NET,4983,NSP,60,2a03:5880:104::/48
+eastern_europe,EE,12757,IPTRON.NET,4983,NSP,60,5.44.191.0/24
+eastern_europe,EE,12757,IPTRON.NET,4983,NSP,60,188.227.248.0/21
+eastern_europe,EE,12757,IPTRON.NET,4983,NSP,60,2a03:5880::/32
