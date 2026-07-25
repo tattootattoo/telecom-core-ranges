@@ -6,7 +6,12 @@ cache:
 
 rate_limit:
   ripestat_delay_seconds: 0.5
-  peeringdb_delay_seconds: 1.0
+  # PeeringDB's own documented limits (docs.peeringdb.com/howto/work_within_peeringdbs_query_limits):
+  # 20 requests/min unauthenticated, 40/min with an API key, "at least 2 seconds
+  # between queries", and "send lists of up to 150 ASNs in a single query" via
+  # asn__in instead of one request per ASN — classify_asn.py batches accordingly.
+  peeringdb_delay_seconds: 2.0
+  peeringdb_batch_size: 150
 
 # Batch size per run (to avoid unbounded run time in GitHub Actions).
 # GitHub-hosted runners have a hard 6-hour (360 min) ceiling per job that cannot be

@@ -62,7 +62,15 @@ CIDR notation are discarded before they'd reach the output CSVs (`build_output.p
 reports how many, if any). ASN values are normalized through `_clean_asn()` before use —
 confirmed against the live RIPEstat API, its lod=1 ("most detailed") response wraps at
 least some entries as e.g. `AsnSingle(215040)` instead of a plain `215040`, which broke
-every PeeringDB lookup downstream until this was caught and fixed.
+every PeeringDB lookup downstream until this was caught and fixed. PeeringDB lookups are
+batched (`asn__in`, up to `peeringdb_batch_size` ASNs per request — PeeringDB's own
+documented limit is 150) instead of one request per ASN, per PeeringDB's own guidance —
+querying one ASN at a time is what triggered their per-IP rate limit (20 req/min
+unauthenticated) in production. Name-keyword matching (`name_keywords_accept`) requires
+a whole word, not a substring — confirmed-real production data had PeeringDB-labeled
+`Cable/DSL/ISP` networks (i.e. explicitly not core, by PeeringDB's own classification)
+get accepted only because "ix" or "core" happened to appear inside a longer word
+(`MATRONIX`, `NCORE`) before this was fixed.
 
 ## Running tests
 

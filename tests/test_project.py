@@ -23,7 +23,7 @@ from fetch_asns import _extract_asns, _clean_asn  # noqa: E402
 from utils.cache import JSONCache             # noqa: E402
 from utils.rate_limit import Checkpoint       # noqa: E402
 from utils.http import get_with_retry, FetchError  # noqa: E402
-from classify_asn import classify_one         # noqa: E402
+from classify_asn import classify_one, classify_batch, _chunks  # noqa: E402
 from build_output import build_rows, build_full_report  # noqa: E402
 from run_pipeline import run_step             # noqa: E402
 
@@ -224,6 +224,37 @@ class TestClassifyOne(unittest.TestCase):
         self.assertFalse(result["accepted"])
         self.assertEqual(result["reason"], "default_reject")
 
+    def test_keyword_match_requires_whole_word_not_substring(self):
+        # Regression test: real PeeringDB data had orgs explicitly typed
+        # Cable/DSL/ISP (i.e. not core, per PeeringDB itself) get incorrectly accepted
+        # because "ix" or "core" happened to appear inside a longer word.
+        for name in ["MATRONIX", "NCORE Sp. z o.o.", "WAWER - CePIX.pl",
+                     "Orange Polska - Internet Optimum and TPIX Route Servers"]:
+            session = self._mock_session([{"name": name, "info_type": "Cable/DSL/ISP"}])
+            result = classify_one(session, "1234", self.cfg, 0)
+            self.assertFalse(result["accepted"], f"{name!r} should not be accepted")
+            self.assertEqual(result["reason"], "peeringdb_reject_type")
+
+    def test_keyword_match_still_works_when_hyphenated(self):
+        # A hyphen is still a word boundary — genuine hyphenated matches should still work.
+        session = self._mock_session([{"name": "ABC-Carrier Networks", "info_type": "Cable/DSL/ISP"}])
+        result = classify_one(session, "1234", self.cfg, 0)
+        self.assertTrue(result["accepted"])
+        self.assertEqual(result["reason"], "name_keyword")
+
+    def test_404_from_single_lookup_is_not_in_peeringdb_not_an_error(self):
+        # A single-ASN PeeringDB query 404s (not 200-with-empty-data) when nothing
+        # matches — this must be treated as a valid "not found" result, not a
+        # transient error to endlessly retry.
+        import requests
+        session = MagicMock()
+        resp_404 = MagicMock(status_code=404)
+        resp_404.raise_for_status.side_effect = requests.HTTPError(response=resp_404)
+        session.get.return_value = resp_404
+        result = classify_one(session, "1234", self.cfg, 0)
+        self.assertEqual(result["reason"], "not_in_peeringdb")
+        self.assertFalse(result["reason"].startswith("error:"))
+
     @patch("utils.http.time.sleep")
     def test_network_error_is_reported_not_rejected(self, mock_sleep):
         session = MagicMock()
@@ -278,6 +309,69 @@ class TestClassifyOne(unittest.TestCase):
         session.get.side_effect = ConnectionError("boom")
         classify_one(session, "1234", self.cfg, 2.5)
         mock_polite_sleep.assert_called_once_with(2.5)
+
+
+class TestClassifyBatch(unittest.TestCase):
+    def setUp(self):
+        self.cfg = {
+            "classification": {
+                "accept_info_types": ["NSP", "Route Server"],
+                "reject_info_types": ["Cable/DSL/ISP", "Enterprise", "Content"],
+                "name_keywords_accept": ["backbone", "transit", "carrier"],
+            }
+        }
+
+    def test_splits_batch_response_by_asn(self):
+        session = MagicMock()
+        resp = MagicMock(status_code=200)
+        resp.raise_for_status = MagicMock()
+        resp.json.return_value = {"data": [
+            {"asn": 100, "name": "Big Carrier", "info_type": "NSP", "org_id": 1},
+            {"asn": 200, "name": "Home Broadband Co", "info_type": "Cable/DSL/ISP", "org_id": 2},
+        ]}
+        session.get.return_value = resp
+
+        results = classify_batch(session, ["100", "200", "300"], self.cfg, 0)
+
+        self.assertEqual(len(results), 3)  # every requested ASN gets a result
+        self.assertTrue(results["100"]["accepted"])
+        self.assertFalse(results["200"]["accepted"])
+        self.assertEqual(results["300"]["reason"], "not_in_peeringdb")  # not in the response at all
+        self.assertEqual(session.get.call_count, 1)  # one request for the whole batch
+
+    def test_sends_asn_list_as_asn_in_param(self):
+        session = MagicMock()
+        resp = MagicMock(status_code=200)
+        resp.raise_for_status = MagicMock()
+        resp.json.return_value = {"data": []}
+        session.get.return_value = resp
+
+        classify_batch(session, ["100", "200", "300"], self.cfg, 0)
+
+        call_kwargs = session.get.call_args
+        self.assertEqual(call_kwargs.kwargs["params"]["asn__in"], "100,200,300")
+
+    @patch("utils.http.time.sleep")
+    def test_whole_batch_failure_marks_every_asn_as_error(self, mock_sleep):
+        session = MagicMock()
+        session.get.side_effect = ConnectionError("boom")
+
+        results = classify_batch(session, ["100", "200"], self.cfg, 0)
+
+        self.assertEqual(len(results), 2)
+        for asn in ["100", "200"]:
+            self.assertTrue(results[asn]["reason"].startswith("error:"))
+
+
+class TestChunks(unittest.TestCase):
+    def test_splits_into_even_groups(self):
+        self.assertEqual(list(_chunks([1, 2, 3, 4, 5, 6], 2)), [[1, 2], [3, 4], [5, 6]])
+
+    def test_last_group_can_be_smaller(self):
+        self.assertEqual(list(_chunks([1, 2, 3, 4, 5], 2)), [[1, 2], [3, 4], [5]])
+
+    def test_empty_input(self):
+        self.assertEqual(list(_chunks([], 5)), [])
 
 
 class TestBuildRows(unittest.TestCase):
