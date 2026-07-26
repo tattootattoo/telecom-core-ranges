@@ -87,10 +87,18 @@ is needed to run them.
 Two separate workflows:
 - **`.github/workflows/test.yml`** — runs the test suite on every push/PR. Fast (no
   network calls), so it gives quick feedback on code changes.
-- **`.github/workflows/update.yml`** — the actual weekly data pipeline. Runs once a
-  week (or manually via the Actions tab), with a 300-minute (5-hour) time limit per run
-  and its own test-suite run as a safety gate first — if a test fails, the run stops
-  before making any real API calls. Saves results and cache directly to the repository.
+- **`.github/workflows/update.yml`** — the actual data pipeline. Runs once a week (or
+  manually via the Actions tab), with a 300-minute (5-hour) time limit per run and its
+  own test-suite run as a safety gate first — if a test fails, the run stops before
+  making any real API calls.
+
+  **A single run loops the fetch → classify → fetch-prefixes → build cycle repeatedly**
+  (each pass still respects `max_countries_per_run` / `max_asns_per_run` from
+  `config.yml`), committing and pushing progress after every pass, until either nothing
+  changed in a pass (everything is covered) or the run gets within its time budget's
+  edge (~240 minutes, leaving a buffer under the 300-minute job limit). This means one
+  manual "Run workflow" click, or one weekly scheduled run, can make hours of progress
+  on its own instead of needing to be re-triggered by hand after every single pass.
 
 ## Why doesn't it take forever to run?
 

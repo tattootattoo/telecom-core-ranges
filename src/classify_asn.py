@@ -162,7 +162,22 @@ def main():
         todo = [a for a in asns
                 if a not in classified and not (args.resume and ckpt.is_done(f"cls_{a}"))]
 
-        for batch in _chunks(todo, batch_size):
+        # A malformed value (e.g. corrupted legacy cache data) will never succeed no
+        # matter how many times it's retried — skip it and checkpoint it immediately
+        # instead of sending it to PeeringDB and looping on it forever.
+        valid_todo = []
+        for a in todo:
+            if re.fullmatch(r"\d+", str(a)):
+                valid_todo.append(a)
+            else:
+                print(f"[{cc}] skipping malformed ASN value {a!r} — not retryable, marking done", file=sys.stderr)
+                classified[a] = {"asn": a, "name": None, "info_type": None, "org_id": None,
+                                  "accepted": False, "score": None, "reason": "invalid_asn_value"}
+                ckpt.mark_done(f"cls_{a}")
+        if valid_todo != todo:
+            cache.set(classified_key, classified)
+
+        for batch in _chunks(valid_todo, batch_size):
             if processed >= max_asns:
                 print(f"[paused] reached the limit of {max_asns} ASNs for this run. Continue later with --resume")
                 print(f"stopped early after processing {processed} ASNs.")

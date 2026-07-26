@@ -28,24 +28,39 @@ jobs:
       - name: Run tests
         run: python -m unittest discover -s tests -v
 
-      - name: Fetch ASNs per country
-        run: python src/fetch_asns.py --region all --resume
-
-      - name: Classify ASNs (Core vs User)
+      - name: Run pipeline in a loop until done or time runs low
         env:
           PEERINGDB_API_KEY: ${{ secrets.PEERINGDB_API_KEY }}
-        run: python src/classify_asn.py --region all --resume
-
-      - name: Fetch announced prefixes
-        run: python src/fetch_prefixes.py --region all --resume
-
-      - name: Build final CSV output
-        run: python src/build_output.py
-
-      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/asn_cache data/checkpoints output
-          git diff --cached --quiet || git commit -m "chore: update core/backbone ranges [automated]"
-          git push
+
+          # Stay well under the job's 300-minute timeout above — the buffer needs to
+          # cover one full iteration's worst-case duration, not just be small, since
+          # the time check only happens *between* iterations, not during one.
+          START_TIME=$(date +%s)
+          MAX_SECONDS=$((240 * 60))
+          ITERATION=0
+
+          while true; do
+            ITERATION=$((ITERATION + 1))
+            ELAPSED=$(( $(date +%s) - START_TIME ))
+            if [ "$ELAPSED" -ge "$MAX_SECONDS" ]; then
+              echo "[stopping] approaching the time budget after $ITERATION iteration(s) — the next scheduled or manual run will pick up from here"
+              break
+            fi
+            echo "=== iteration $ITERATION (elapsed ${ELAPSED}s) ==="
+
+            python src/fetch_asns.py --region all --resume
+            python src/classify_asn.py --region all --resume
+            python src/fetch_prefixes.py --region all --resume
+            python src/build_output.py
+
+            git add data/asn_cache data/checkpoints output
+            if git diff --cached --quiet; then
+              echo "[done] no new data produced this iteration — every country/ASN is already covered"
+              break
+            fi
+            git commit -m "chore: update core/backbone ranges [automated, iteration $ITERATION]"
+            git push
+          done

@@ -75,26 +75,28 @@ reprocess everything from scratch, ignoring the checkpoints.
 
 ## 5. How many runs will you need to cover every region?
 
-With the current settings in `config.yml`:
+Possibly just one. **A single workflow run now loops the whole fetch → classify →
+fetch-prefixes → build cycle internally**, committing progress after every pass, until
+either a pass produces no new data (everything is covered) or the run gets close to its
+time budget (~240 minutes, under the job's 300-minute limit). Each pass still respects
+the per-pass caps in `config.yml`:
 - `max_countries_per_run: 30` for fetching ASNs
 - `max_asns_per_run: 2500` for classification and fetching prefixes
 
-matched to a job `timeout-minutes: 300` (5 hours) in the workflow.
+so a run with, say, 30 countries and thousands of ASNs to get through will do several
+passes on its own, back to back, without needing to be manually re-triggered between
+them — check the run's log for lines like `=== iteration 2 ===` to see this happening.
 
-A note on that number: GitHub-hosted runners have a **hard 6-hour (360-minute) ceiling
-per job** — this is a platform limit, not something tied to public vs. private repos or
-free vs. paid plans, and for GitHub-hosted runners it can only be lowered, never raised.
-300 minutes leaves a 60-minute safety buffer under that ceiling. The batch sizes above
-were scaled up from a run that processed 6 countries / 400 ASNs in about 16 minutes —
-they're a first step, not a precisely tuned value, since actual ASN counts vary a lot per
-country. Watch the "Total duration" of a run or two in the Actions tab; if it's finishing
-well under 300 minutes with room to spare, you can raise `max_asns_per_run` further.
+A note on the 300-minute number: GitHub-hosted runners have a **hard 6-hour
+(360-minute) ceiling per job** — a platform limit, not tied to public vs. private repos
+or free vs. paid plans, and for GitHub-hosted runners it can only be lowered, never
+raised. 300 minutes leaves a 60-minute safety buffer under that ceiling, and the loop's
+own internal 240-minute budget leaves further room for whichever pass is running when
+the clock runs out to finish and commit cleanly.
 
-Even at these larger sizes, **the first full run (`--region all`) may still not finish in
-one pass** if the total number of ASNs across all 145 countries is large — it will stop
-safely once it hits the limit and print a message saying so. Run the same command (with
-`--resume`) again (manually, or just let the weekly schedule keep going on its own) until
-you see the message "no new items to process".
+If a run still ends with more left to do (the log says "approaching the time budget"
+rather than "no new data"), just trigger it again — manually, or let the weekly
+schedule pick it up — and it resumes exactly where it left off.
 
 ## 6. Expected results
 
