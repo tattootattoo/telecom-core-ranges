@@ -1,0 +1,1614 @@
+region,country,asn,org_name,org_id,info_type,score,prefix
+southeast_asia,ID,139457,Semut Data Indonesia,26199,NSP,60,103.167.112.0/23
+southeast_asia,ID,139457,Semut Data Indonesia,26199,NSP,60,103.146.63.0/24
+southeast_asia,ID,139457,Semut Data Indonesia,26199,NSP,60,103.146.62.0/24
+southeast_asia,ID,139457,Semut Data Indonesia,26199,NSP,60,103.167.113.0/24
+southeast_asia,ID,139457,Semut Data Indonesia,26199,NSP,60,103.146.62.0/23
+southeast_asia,ID,139457,Semut Data Indonesia,26199,NSP,60,103.167.112.0/24
+southeast_asia,ID,213293,Arif Setiawan,35940,NSP,60,2a14:7580:e700::/41
+southeast_asia,ID,213293,Arif Setiawan,35940,NSP,60,2602:f72e:3a::/47
+southeast_asia,ID,213293,Arif Setiawan,35940,NSP,60,2a14:7580:e780::/41
+southeast_asia,ID,131691,BERCA,11980,NSP,60,116.213.56.0/24
+southeast_asia,ID,131691,BERCA,11980,NSP,60,116.213.55.0/24
+southeast_asia,ID,131691,BERCA,11980,NSP,60,116.213.58.0/23
+southeast_asia,ID,131694,Jabikha Teknologi Indonesia,31434,NSP,60,103.7.84.0/24
+southeast_asia,ID,131694,Jabikha Teknologi Indonesia,31434,NSP,60,103.7.84.0/23
+southeast_asia,ID,131694,Jabikha Teknologi Indonesia,31434,NSP,60,103.7.87.0/24
+southeast_asia,ID,131694,Jabikha Teknologi Indonesia,31434,NSP,60,103.7.84.0/22
+southeast_asia,ID,131694,Jabikha Teknologi Indonesia,31434,NSP,60,103.7.85.0/24
+southeast_asia,ID,131694,Jabikha Teknologi Indonesia,31434,NSP,60,103.7.86.0/24
+southeast_asia,ID,131694,Jabikha Teknologi Indonesia,31434,NSP,60,103.7.86.0/23
+southeast_asia,ID,139937,PT Nararya Global Network,38429,NSP,60,157.66.131.0/24
+southeast_asia,ID,139949,kejoraNET,24946,NSP,60,2405:aac0:8::/48
+southeast_asia,ID,139949,kejoraNET,24946,NSP,60,2405:aac0:500::/48
+southeast_asia,ID,139949,kejoraNET,24946,NSP,60,2405:aac0:100::/48
+southeast_asia,ID,139949,kejoraNET,24946,NSP,60,2405:aac0:7::/48
+southeast_asia,ID,139949,kejoraNET,24946,NSP,60,2405:aac0:56::/48
+southeast_asia,ID,139949,kejoraNET,24946,NSP,60,2405:aac0:fe::/48
+southeast_asia,ID,139949,kejoraNET,24946,NSP,60,2405:aac0:6::/48
+southeast_asia,ID,139949,kejoraNET,24946,NSP,60,2405:aac0:13::/48
+southeast_asia,ID,139949,kejoraNET,24946,NSP,60,103.213.231.0/24
+southeast_asia,ID,139949,kejoraNET,24946,NSP,60,2405:aac0:53::/48
+southeast_asia,ID,139949,kejoraNET,24946,NSP,60,103.147.52.0/24
+southeast_asia,ID,139949,kejoraNET,24946,NSP,60,2405:aac0:10::/48
+southeast_asia,ID,139949,kejoraNET,24946,NSP,60,2405:aac0:55::/48
+southeast_asia,ID,131758,"Bali Ning,PT.",20059,NSP,60,202.56.169.0/24
+southeast_asia,ID,131758,"Bali Ning,PT.",20059,NSP,60,202.56.168.0/24
+southeast_asia,ID,139978,LILLY-IX,25604,Cable/DSL/ISP,45,103.148.18.0/23
+southeast_asia,ID,139978,LILLY-IX,25604,Cable/DSL/ISP,45,103.148.19.0/24
+southeast_asia,ID,139978,LILLY-IX,25604,Cable/DSL/ISP,45,103.148.18.0/24
+southeast_asia,ID,139978,LILLY-IX,25604,Cable/DSL/ISP,45,2405:c7c0::/32
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,157.85.209.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,157.85.197.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,157.85.212.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,157.85.198.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,2400:9800:6052::/47
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,157.85.208.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,140.213.210.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,157.85.213.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,157.85.221.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,157.85.220.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,2400:9800:6066::/48
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,2400:9800:6042::/47
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,2400:9800:6073::/48
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,157.85.210.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,157.85.207.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,2400:9800:6077::/48
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,140.213.95.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,140.213.118.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,157.85.211.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,140.213.188.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,2400:9800:6032::/47
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,157.85.219.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,140.213.186.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,140.213.201.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,140.213.8.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,140.213.216.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,2400:9800:6074::/48
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,2400:9800:6061::/48
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,103.3.222.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,140.213.94.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,157.85.218.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,2400:9800:6034::/47
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,2400:9800:6030::/47
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,140.213.12.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,157.85.203.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,157.85.204.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,157.85.202.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,140.213.189.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,140.213.10.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,2400:9800:6050::/47
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,140.213.200.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,140.213.1.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,2400:9800:6036::/47
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,103.3.221.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,157.85.206.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,140.213.190.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,140.213.202.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,140.213.203.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,2400:9800:6065::/48
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,2400:9800:6040::/47
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,140.213.217.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,140.213.3.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,2400:9800:6060::/48
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,157.85.205.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,103.3.220.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,140.213.187.0/24
+southeast_asia,ID,139994,XLSmart AS139994,1790,NSP,60,2400:9800:6070::/48
+southeast_asia,ID,140066,PT Lintas Network Akses,44653,NSP,60,160.236.29.0/24
+southeast_asia,ID,140066,PT Lintas Network Akses,44653,NSP,60,160.236.28.0/24
+southeast_asia,ID,58389,Sumber Data Indonesia NAP,6916,NSP,60,114.198.247.0/24
+southeast_asia,ID,58389,Sumber Data Indonesia NAP,6916,NSP,60,116.68.164.0/24
+southeast_asia,ID,58389,Sumber Data Indonesia NAP,6916,NSP,60,2404:fd00:34::/48
+southeast_asia,ID,58389,Sumber Data Indonesia NAP,6916,NSP,60,43.240.230.0/24
+southeast_asia,ID,58389,Sumber Data Indonesia NAP,6916,NSP,60,116.68.167.0/24
+southeast_asia,ID,58389,Sumber Data Indonesia NAP,6916,NSP,60,202.47.182.0/24
+southeast_asia,ID,58389,Sumber Data Indonesia NAP,6916,NSP,60,103.11.31.0/24
+southeast_asia,ID,58389,Sumber Data Indonesia NAP,6916,NSP,60,116.68.165.0/24
+southeast_asia,ID,58389,Sumber Data Indonesia NAP,6916,NSP,60,114.198.243.0/24
+southeast_asia,ID,58389,Sumber Data Indonesia NAP,6916,NSP,60,103.226.119.0/24
+southeast_asia,ID,58389,Sumber Data Indonesia NAP,6916,NSP,60,103.143.222.0/24
+southeast_asia,ID,58389,Sumber Data Indonesia NAP,6916,NSP,60,2404:fd00:36::/48
+southeast_asia,ID,58389,Sumber Data Indonesia NAP,6916,NSP,60,202.72.207.0/24
+southeast_asia,ID,58389,Sumber Data Indonesia NAP,6916,NSP,60,103.11.28.0/24
+southeast_asia,ID,58389,Sumber Data Indonesia NAP,6916,NSP,60,43.240.228.0/24
+southeast_asia,ID,58389,Sumber Data Indonesia NAP,6916,NSP,60,2404:fd00:10::/48
+southeast_asia,ID,58389,Sumber Data Indonesia NAP,6916,NSP,60,103.11.30.0/24
+southeast_asia,ID,58389,Sumber Data Indonesia NAP,6916,NSP,60,116.68.169.0/24
+southeast_asia,ID,58389,Sumber Data Indonesia NAP,6916,NSP,60,114.198.241.0/24
+southeast_asia,ID,58389,Sumber Data Indonesia NAP,6916,NSP,60,103.227.248.0/24
+southeast_asia,ID,58389,Sumber Data Indonesia NAP,6916,NSP,60,2401:a0a0:4::/48
+southeast_asia,ID,58401,XROUTE,17879,NSP,60,2400:9c80:1::/48
+southeast_asia,ID,58401,XROUTE,17879,NSP,60,103.23.141.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.230.0/23
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.77.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1040::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.119.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.242.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.219.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:101b::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.117.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.74.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.142.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.134.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.128.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.57.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.77.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.183.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,203.142.66.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,203.142.75.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.12.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.78.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.120.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:23::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.151.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1085::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:107a::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.187.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1111::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.156.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.99.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.80.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.97.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:b8::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.9.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,202.169.57.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1049::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1072::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,202.169.38.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.75.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.63.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.32.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.132.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,202.169.61.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:105d::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.160.0/21
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.193.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.205.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.68.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,103.233.152.0/22
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:88::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.115.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.115.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.65.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1010::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.93.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,203.142.85.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.94.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1068::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.56.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:7::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.195.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.84.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1130::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.236.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:22::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:f::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.36.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.105.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.31.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1054::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.99.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.186.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.166.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:102b::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.170.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1095::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.138.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.134.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.88.0/23
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:3::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.120.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.151.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.245.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.128.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1018::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.59.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1041::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.91.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,203.142.71.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.224.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,103.233.155.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.45.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.82.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.87.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.22.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,202.169.45.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1003::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:11::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.172.0/22
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.87.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.82.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.150.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.93.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.210.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,203.142.76.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.169.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.249.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:78::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:20::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.184.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:25::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:21::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:d::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.89.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.74.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,202.169.34.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.213.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1006::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1005::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.121.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.76.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.122.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1052::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.119.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:104f::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,202.169.32.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,202.169.41.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,202.169.37.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,202.169.60.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.189.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.48.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1029::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.117.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1024::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:104e::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.111.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1002::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.95.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.178.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.194.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1015::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:105e::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.0.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:107b::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:70::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.80.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.209.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.206.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,202.169.63.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:71::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.223.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.188.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.121.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:24::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.197.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1032::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:30::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.96.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.90.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,103.233.153.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.58.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,202.169.43.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.139.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.67.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1055::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1035::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:6::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.104.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.67.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.90.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,203.142.84.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1004::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.163.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.183.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:102a::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:104d::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,203.142.65.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1075::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.243.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.149.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.11.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.141.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.152.0/22
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,203.142.87.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.137.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.158.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.76.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.182.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.78.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.159.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,103.101.228.0/22
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.172.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.2.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.118.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.94.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.70.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.130.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,45.126.186.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:9::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.100.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.127.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.185.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.95.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,203.142.69.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.92.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,103.195.59.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.100.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.176.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,103.233.152.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.255.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.152.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.65.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.145.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1047::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,202.169.55.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.147.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1064::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000::/32
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.97.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.129.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.15.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.181.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.113.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,202.169.42.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1034::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.217.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1063::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1001::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.191.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1026::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.168.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:105c::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.62.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.39.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.67.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.106.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.192.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:104a::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.8.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.72.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,113.11.176.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,202.169.48.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.21.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:a9::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.240.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.44.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:ad::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:a::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:800d::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:15::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1023::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.83.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,202.169.53.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:8000::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.142.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.43.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.253.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.250.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.111.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,103.195.57.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.85.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.68.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.138.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.173.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.71.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.227.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.129.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.160.0/23
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.145.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.91.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.125.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:101c::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1045::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.228.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.87.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.102.0/23
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1057::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.124.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.226.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.85.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:103c::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.88.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1037::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.127.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.123.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1122::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1060::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.252.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.42.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.190.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.149.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.84.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.89.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,203.142.70.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.103.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,203.142.77.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.108.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.110.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1025::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,203.142.78.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.190.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1123::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.75.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.232.0/22
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.155.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:100c::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.78.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,202.169.33.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.24.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.98.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.6.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.100.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.73.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.215.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.37.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.73.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.118.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:800e::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.113.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.70.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.164.0/23
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1031::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.64.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.104.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,113.11.181.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1044::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.177.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.101.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,202.169.50.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.110.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.157.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.53.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.95.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1019::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.126.0/23
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.50.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.69.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.180.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,103.105.82.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.47.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:102e::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.27.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1555::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.124.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,202.169.52.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1000::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.81.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,45.126.187.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,113.11.179.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1008::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.156.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.212.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:13::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:800b::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1021::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.79.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.254.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.64.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.51.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1039::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:8::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,103.105.80.0/22
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,103.105.83.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:ffff::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.119.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,103.195.58.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,203.142.86.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.162.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,202.169.47.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:102c::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.105.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.16.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.125.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:104b::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.89.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1096::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.244.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,113.11.183.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:e::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1062::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.146.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1053::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1059::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.139.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:105a::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:80::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,202.169.36.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.154.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1051::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.97.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.72.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.121.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:81::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1100::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.108.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1065::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.132.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.109.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1066::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.202.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.131.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:c::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.167.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.66.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:103d::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.110.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:10ba::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,202.169.44.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.158.0/23
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1101::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:10a5::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,45.126.184.0/22
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.86.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:100b::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1028::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.118.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.81.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,103.233.154.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.102.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1011::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1036::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:b4b1::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.107.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.64.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.143.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.120.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1014::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.86.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1009::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,103.105.81.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.126.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.54.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.107.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,202.169.40.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.125.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.176.0/22
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:6324::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.251.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.26.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,202.169.49.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:8012::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1061::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,45.126.184.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:100e::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:103a::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,203.142.68.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.124.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.104.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.229.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1038::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.218.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:8002::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.147.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.17.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1048::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1071::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1058::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.69.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.174.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.144.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.40.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.14.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:a7::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.92.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.114.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.239.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1027::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:b::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:110b::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1050::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.94.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.68.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1042::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.105.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.66.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.198.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.196.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:105b::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1012::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.208.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.106.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.106.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.4.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.108.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1013::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.91.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.35.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1099::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.135.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.182.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.96.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.133.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1046::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.171.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.148.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:104c::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,202.169.54.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,180.87.86.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.13.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.116.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1067::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.165.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.200.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:b9::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,203.142.67.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.143.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1073::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.112.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:2::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:4::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.114.0/23
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.29.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.52.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1112::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:100d::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1077::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1098::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.34.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.214.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:101d::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,203.142.79.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,202.169.59.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,113.11.178.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.98.0/23
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.148.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:100a::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.25.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.211.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.46.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:12::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.164.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,203.142.64.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,202.169.35.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.49.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1133::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.77.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.72.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,113.11.180.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.117.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.112.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:10f1::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.84.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:800a::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.140.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:103b::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1080::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.136.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.114.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:800f::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.131.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.74.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:40::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.109.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,103.208.136.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.246.0/23
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.216.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.71.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.79.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.157.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.180.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.10.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:72::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.81.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.75.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:b2::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.122.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.69.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:8011::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1056::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1070::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1043::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.96.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.199.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.248.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:5::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.175.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:84::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.123.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.126.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.93.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:101a::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.127.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,203.142.74.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.207.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.83.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,203.142.82.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,203.142.73.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.20.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1016::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.140.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,45.126.185.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.79.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:105f::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.150.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:14::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:800c::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.123.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.112.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.133.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.188.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:103f::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.191.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.241.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,112.78.189.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.203.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,202.169.62.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1020::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.111.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.76.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.220.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.185.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.101.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.7.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:118a::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:10::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.55.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.126.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.66.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1007::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:103e::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.113.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1030::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.168.0/22
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,117.102.80.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,118.99.109.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.38.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.61.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1440::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1430::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,182.253.222.0/24
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1431::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1432::/48
+southeast_asia,ID,17451,Biznet Networks,597,NSP,60,2404:8000:1434::/48
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,124.158.162.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,163.53.186.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.23.30.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.111.28.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.92.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.94.1.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.76.168.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,220.247.168.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.57.31.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.140.207.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.146.58.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.154.180.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.162.212.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.212.178.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,220.247.169.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,121.100.16.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.42.40.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.76.174.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.124.45.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.87.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.162.213.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.154.181.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.141.180.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.148.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.110.88.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,124.158.163.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.212.179.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.146.48.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.196.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,119.252.160.0/20
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.57.23.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,27.124.93.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.127.66.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.176.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.131.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.140.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.170.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.94.120.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.111.80.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.26.5.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.228.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,121.100.22.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.3.79.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.142.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.220.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.83.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,124.158.165.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.160.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.206.240.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.206.241.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.76.169.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.253.87.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.111.58.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.228.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.31.43.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,82.158.139.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,82.158.137.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.111.53.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.32.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.231.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.124.145.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.74.43.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.72.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.15.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.174.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.17.175.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.190.47.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.162.220.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.111.31.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.76.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.94.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.180.1.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.124.144.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.129.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.42.41.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.254.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,119.252.171.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.229.165.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.202.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.146.62.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.137.189.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,220.247.172.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.17.142.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.143.192.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,223.25.100.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.164.217.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.179.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,119.252.166.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.94.123.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,43.240.224.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.199.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,119.252.175.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.57.29.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.215.25.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.94.127.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.215.179.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.160.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.78.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.124.46.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.14.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.229.184.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.220.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,160.202.42.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.146.59.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,43.240.80.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,121.100.19.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.170.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.31.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.179.248.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,121.100.17.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.62.11.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.80.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.141.105.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.62.9.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.180.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,124.158.167.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,163.53.185.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.18.35.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.124.147.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.75.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.245.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.162.215.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,82.158.144.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.181.250.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,175.184.232.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.47.229.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.89.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.162.217.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.78.72.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.78.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.189.206.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.76.173.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,82.158.141.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.245.178.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.12.242.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,27.124.92.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.3.77.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.183.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,119.252.172.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.180.0.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.25.109.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.146.50.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.3.76.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.26.4.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,2400:4a00::/32
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.252.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,119.252.163.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.189.201.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.249.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.94.3.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.178.16.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.215.24.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,124.158.175.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.94.6.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,27.124.88.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.180.58.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,82.158.134.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.146.60.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,124.158.168.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,160.202.41.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.35.152.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.215.27.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.79.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.229.164.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.124.44.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.182.0.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.154.182.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.68.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.200.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,43.240.83.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,121.100.18.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.162.218.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.252.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.91.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.57.28.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,27.124.87.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.94.2.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.180.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.245.179.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,119.252.162.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.211.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.146.55.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.146.49.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.143.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.89.34.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.171.236.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.110.91.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.111.54.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.189.200.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.162.216.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,223.25.101.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.229.166.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.76.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,124.158.166.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.252.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.229.164.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,124.158.171.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.141.181.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.78.142.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,119.252.169.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.181.250.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,27.124.85.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.49.188.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.255.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.181.251.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.57.28.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,82.158.147.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,27.124.89.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.245.178.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.146.52.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.62.8.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.179.248.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,119.252.164.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,119.252.160.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.189.168.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.25.110.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.250.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.78.74.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.182.1.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.111.56.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.227.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.117.30.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.127.64.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.148.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,43.240.80.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.141.188.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.94.0.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.111.56.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.198.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.141.46.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.94.122.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,119.252.170.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.215.26.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.26.4.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.42.43.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.150.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.127.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.94.125.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.203.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.78.72.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,124.158.173.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,27.124.95.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,119.252.173.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.179.249.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,82.158.131.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.229.167.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.164.216.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.180.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.178.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,160.202.43.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.161.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.164.219.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.74.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.167.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.70.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,223.25.102.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.94.120.0/21
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.162.223.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.17.174.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,157.119.59.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.181.244.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.206.243.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.140.206.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.95.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,124.158.170.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,82.158.128.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.162.221.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.209.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.187.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,82.158.138.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.222.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.78.141.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.31.42.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,223.25.103.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.208.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.253.86.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.12.242.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.89.33.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.178.16.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.190.46.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.85.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.57.22.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.111.29.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.246.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.69.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,124.158.160.0/20
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.162.222.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,157.119.56.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.35.153.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.126.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.124.47.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.162.208.0/20
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.190.46.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.253.86.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,27.124.80.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.111.55.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,220.247.171.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.55.221.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.31.42.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.124.88.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,82.158.135.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.111.30.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.76.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.76.170.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.163.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.71.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.171.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.93.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.111.52.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.89.35.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.12.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.168.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,124.158.172.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,163.53.187.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,82.158.133.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.190.51.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.90.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.66.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.78.140.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.223.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.124.90.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.124.88.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.124.91.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.65.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,82.158.132.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.62.8.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.124.146.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,203.171.216.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,119.47.91.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.180.0.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,82.158.146.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.169.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.238.139.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.77.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.57.22.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.130.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,82.158.129.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.86.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,203.171.217.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.67.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,43.240.82.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,82.158.143.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.154.178.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.189.168.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.141.189.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,119.252.174.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.94.7.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.47.228.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.78.140.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.215.178.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.3.78.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.55.223.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,163.53.184.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.206.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,119.252.167.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.76.172.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.89.32.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.208.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.76.175.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,43.240.81.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.94.126.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.17.173.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.124.144.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.180.58.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,27.124.91.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.12.243.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.141.104.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.62.10.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.168.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.253.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.178.17.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.127.64.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,157.119.58.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.180.194.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.244.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.12.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,119.252.168.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.189.200.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.179.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.111.52.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.248.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,27.124.94.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.127.67.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,27.124.90.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.205.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.253.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.110.89.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,220.247.175.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,175.184.235.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.12.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.248.219.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.209.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.197.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,119.252.161.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,27.124.86.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.254.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.181.137.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.121.239.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.201.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.94.121.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.35.152.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.177.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,223.25.99.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,124.158.169.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.162.219.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.189.207.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.117.30.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,27.124.84.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.229.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.94.4.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.137.188.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,124.158.164.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.181.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.117.31.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.210.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.162.211.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.180.194.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.162.208.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.179.73.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,121.100.23.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.146.54.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.64.0/19
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,160.202.40.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.176.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.57.30.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.110.88.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.146.53.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,220.247.168.0/21
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.143.193.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,121.100.22.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,124.158.161.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.110.90.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.78.73.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.49.189.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,160.202.40.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.162.209.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.181.244.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.180.59.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,220.247.174.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.76.168.0/21
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,175.184.234.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,175.184.233.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.78.75.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.111.57.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.190.50.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,223.25.98.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.207.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.229.185.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,223.25.97.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.121.238.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.229.184.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.128.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.215.24.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.151.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.146.63.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.180.195.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,124.158.174.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,27.124.82.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,220.247.173.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,223.25.96.0/21
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.164.218.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.146.51.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.94.124.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,82.158.142.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.25.111.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.166.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.247.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.146.57.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.17.143.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.42.42.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.251.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.178.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.146.61.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.64.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.189.169.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.137.188.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.141.47.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,119.252.165.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.190.50.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,220.247.170.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.94.0.0/21
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.78.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.111.28.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.75.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.162.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,82.158.130.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.124.44.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,82.158.136.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.13.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,121.100.16.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.141.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.146.56.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.70.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.230.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.17.172.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.76.171.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.189.206.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.182.0.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,157.119.57.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.73.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.30.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.175.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.181.245.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.162.214.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.33.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.210.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.17.172.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.88.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.18.34.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.181.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.55.222.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.255.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.182.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.94.5.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.179.72.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.181.136.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.145.149.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.78.143.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.88.204.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.111.59.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,203.171.216.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.124.89.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.238.138.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,124.158.160.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.74.0/23
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.3.76.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.186.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.47.228.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.77.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.211.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,223.25.96.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.20.86.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.79.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,82.158.145.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.206.242.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,175.184.232.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,163.53.184.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.84.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.208.0/22
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,27.124.81.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,82.158.140.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.46.74.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.144.221.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,202.162.210.0/24
+southeast_asia,ID,9341,Indonesia Comnets Plus AS9341,7920,NSP,60,103.181.136.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.121.215.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.10.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.11.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,210.87.82.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,2405:9d40:1::/48
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.115.29.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.245.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.188.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.134.189.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.233.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.156.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.150.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.107.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.240.68.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.244.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.103.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,38.253.236.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,45.117.134.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.20.21.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.160.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.95.40.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,210.79.163.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.161.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.158.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.190.134.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.210.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.137.64.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,210.79.161.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.238.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.149.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.134.191.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.240.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,210.79.162.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.20.3.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.172.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.95.40.0/22
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.181.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.212.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,2404:2f80:ff02::/48
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.116.202.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.199.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,2405:9d40:4::/48
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.169.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.231.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.116.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,43.225.66.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.192.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.208.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.182.46.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.20.0.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.136.161.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.140.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,2405:9d40:2::/48
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.156.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.239.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.106.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.109.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.10.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.20.20.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.190.135.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.148.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.106.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.148.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.95.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.247.216.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.236.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.114.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.151.218.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,43.225.67.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,113.192.12.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.88.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.247.217.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.20.22.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,210.79.189.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.188.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.69.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.153.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,2404:2f80:ff01::/48
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.164.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.194.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.141.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.2.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,210.79.165.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.202.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.190.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.95.41.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.134.186.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.172.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.20.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.20.0.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.121.213.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.137.35.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.68.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.20.5.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,210.79.157.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.154.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,203.114.236.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.234.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.170.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.86.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.248.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.128.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.151.214.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.204.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,210.87.77.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.20.12.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,113.192.54.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.76.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.249.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.117.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.26.116.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.212.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.136.245.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.232.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.134.188.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.252.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.192.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.230.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.128.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.20.10.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.20.19.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.247.216.0/22
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.160.165.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.121.199.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,210.87.85.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.187.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.74.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.95.43.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.186.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.195.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,43.225.64.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.129.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.95.42.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,210.87.86.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,2404:2f80:ff00::/48
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.198.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.134.187.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.68.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.24.226.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.152.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.182.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.168.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.230.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.253.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.238.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.155.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.232.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.154.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,210.79.156.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.194.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.208.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.186.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.121.212.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.230.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.165.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.146.189.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.151.220.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.149.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,210.79.188.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.137.34.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.20.4.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.244.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,113.192.53.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,210.87.76.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.195.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.87.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.20.2.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.20.18.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.148.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,210.79.188.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.111.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,210.79.164.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,2405:9d40:3::/48
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.88.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,210.87.80.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.151.220.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.151.215.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.115.31.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.3.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.248.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.121.197.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.203.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.8.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.20.1.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.233.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.136.160.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.168.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.20.6.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.20.2.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.71.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.252.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.148.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.198.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.191.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.194.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.101.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,113.192.54.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.181.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.137.65.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,2404:4780:1::/48
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.241.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,210.79.160.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.151.221.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.185.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.234.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.231.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.89.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.76.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.194.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,203.114.236.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.164.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,2404:2f80:fe00::/48
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,203.114.237.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.102.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.110.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,113.192.55.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.160.164.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.247.219.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.20.7.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.121.198.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.150.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.189.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,113.192.58.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.232.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.146.188.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.211.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.20.11.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.202.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.190.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.180.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,43.225.64.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.137.115.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.116.201.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,210.87.86.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.152.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.152.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.20.6.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.2.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,113.192.58.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.121.214.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,2404:2f80:1::/48
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.116.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,43.225.65.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.180.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.20.22.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.151.219.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.157.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,210.79.162.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.108.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,210.87.87.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.161.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.158.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.20.18.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,43.225.64.0/22
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,210.87.84.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.20.10.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,210.87.80.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.156.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,210.79.160.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.94.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.86.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,45.117.134.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.171.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.160.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.115.28.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.240.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.121.212.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.204.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.100.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.20.4.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.210.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,43.225.66.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,113.192.13.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.209.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.240.69.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.184.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.136.244.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.170.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.232.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.173.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,210.79.156.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.116.203.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.247.218.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.152.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.160.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,210.87.81.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.137.34.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,45.117.135.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.102.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,210.87.76.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.77.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.110.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.235.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.151.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.153.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.20.20.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.20.13.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.213.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.100.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.205.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.152.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.70.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.10.94.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,103.134.190.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.15.230.0/23
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,157.20.12.0/24
+southeast_asia,ID,58495,PT Parsaoran Global Datatrans,20055,NSP,60,36.50.193.0/24
+southeast_asia,ID,58552,Multidata Rancana Prima,18190,NSP,60,2401:a0a0:7::/48
+southeast_asia,ID,58552,Multidata Rancana Prima,18190,NSP,60,2404:fd00:14::/48
+southeast_asia,ID,58552,Multidata Rancana Prima,18190,NSP,60,2401:a0a0:5::/48
+southeast_asia,ID,58552,Multidata Rancana Prima,18190,NSP,60,2404:fd00::/32
+southeast_asia,ID,58552,Multidata Rancana Prima,18190,NSP,60,43.240.231.0/24
+southeast_asia,ID,58552,Multidata Rancana Prima,18190,NSP,60,103.11.29.0/24
+southeast_asia,ID,58552,Multidata Rancana Prima,18190,NSP,60,2404:fd00:20::/48
