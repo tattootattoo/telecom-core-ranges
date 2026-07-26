@@ -1,0 +1,1 @@
+{"_ts": 1785032245.0127723, "data": {"11816": {"asn": "11816", "name": "SetarNet", "info_type": "", "org_id": 26972, "accepted": false, "score": 10, "reason": "default_reject"}, "264645": {"asn": "264645", "name": "Digicel Aruba", "info_type": "Cable/DSL/ISP", "org_id": 10057, "accepted": false, "score": 5, "reason": "peeringdb_reject_type"}}}

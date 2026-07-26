@@ -19,6 +19,10 @@ isolated_islands_pacific,PG,147024,bikpla,37247,NSP,60,103.173.32.0/24
 isolated_islands_pacific,SB,139609,Solomon Islands Submarine Cable Company,23922,NSP,60,103.142.98.0/24
 isolated_islands_pacific,SB,139609,Solomon Islands Submarine Cable Company,23922,NSP,60,103.142.99.0/24
 isolated_islands_pacific,SB,139609,Solomon Islands Submarine Cable Company,23922,NSP,60,2001:df1:3b80::/48
+isolated_islands_pacific,VU,23959,Owl Japan,20223,NSP,60,194.114.136.0/24
+isolated_islands_pacific,VU,23959,Owl Japan,20223,NSP,60,2403:fbc0:7000::/48
+isolated_islands_pacific,VU,23959,Owl Japan,20223,NSP,60,194.127.166.0/24
+isolated_islands_pacific,VU,23959,Owl Japan,20223,NSP,60,2a07:d883:600::/40
 isolated_islands_pacific,TO,132579,Tonga Cable Limited,15224,NSP,60,2406:1500:1::/48
 isolated_islands_pacific,TO,132579,Tonga Cable Limited,15224,NSP,60,103.245.162.0/24
 isolated_islands_pacific,TO,132579,Tonga Cable Limited,15224,NSP,60,103.245.160.0/23
@@ -48,3 +52,7 @@ isolated_islands_pacific,NC,18200,O.P.T. New Caledonia,9598,NSP,60,202.87.129.0/
 isolated_islands_pacific,NC,18200,O.P.T. New Caledonia,9598,NSP,60,43.224.195.0/24
 isolated_islands_pacific,NC,18200,O.P.T. New Caledonia,9598,NSP,60,2404:2200:24::/46
 isolated_islands_pacific,NC,18200,O.P.T. New Caledonia,9598,NSP,60,2404:2200:10::/48
+isolated_islands_pacific,GU,23676,MARIIX Route Servers,16928,Route Server,60,2001:df7:df80::/48
+isolated_islands_pacific,GU,23676,MARIIX Route Servers,16928,Route Server,60,103.115.192.0/24
+isolated_islands_pacific,GU,152735,Guam IX Services,37604,Route Server,70,2001:def:c000::/48
+isolated_islands_pacific,GU,152735,Guam IX Services,37604,Route Server,70,103.142.152.0/24

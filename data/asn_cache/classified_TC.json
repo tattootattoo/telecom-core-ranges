@@ -1,0 +1,1 @@
+{"_ts": 1785032253.6797688, "data": {"22933": {"asn": "22933", "name": null, "info_type": null, "org_id": null, "accepted": false, "score": 10, "reason": "not_in_peeringdb"}, "394311": {"asn": "394311", "name": "Digicel Turks and Caicos", "info_type": "Cable/DSL/ISP", "org_id": 10057, "accepted": false, "score": 5, "reason": "peeringdb_reject_type"}}}

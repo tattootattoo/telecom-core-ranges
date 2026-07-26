@@ -1,1 +1,1 @@
-{"_ts": 1785030870.690106, "data": {}}
+{"_ts": 1785032190.332303, "data": {"327725": {"asn": "327725", "name": null, "info_type": null, "org_id": null, "accepted": false, "score": 10, "reason": "not_in_peeringdb"}, "328191": {"asn": "328191", "name": "Companhia Santomense de Telecomunicacoes", "info_type": "Cable/DSL/ISP", "org_id": 33364, "accepted": false, "score": 5, "reason": "peeringdb_reject_type"}}}
