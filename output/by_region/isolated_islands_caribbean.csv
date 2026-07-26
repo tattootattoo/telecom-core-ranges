@@ -649,6 +649,148 @@ isolated_islands_caribbean,AG,396304,Antigua Wireless ventures Ltd,31648,NSP,60,
 isolated_islands_caribbean,AG,396304,Antigua Wireless ventures Ltd,31648,NSP,60,208.66.53.0/24
 isolated_islands_caribbean,AG,396304,Antigua Wireless ventures Ltd,31648,NSP,60,104.255.176.0/24
 isolated_islands_caribbean,AG,396304,Antigua Wireless ventures Ltd,31648,NSP,60,63.143.109.0/24
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,208.81.58.0/23
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,198.52.240.0/24
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,199.116.62.0/24
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,192.254.96.0/24
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,69.24.200.0/24
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,192.254.97.0/24
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,67.206.200.0/21
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,149.18.39.0/24
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,172.93.2.0/23
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,38.2.160.0/19
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,69.24.198.0/24
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,192.254.109.0/24
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,104.218.240.0/22
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,200.5.16.0/20
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,74.119.24.0/22
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,173.239.206.0/24
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,38.87.232.0/21
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,154.64.208.0/21
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,72.46.156.0/23
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,2604:1cc0::/32
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,104.218.241.0/24
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,204.77.11.0/24
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,173.239.228.0/24
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,104.238.192.0/22
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,198.52.240.0/22
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,69.24.197.0/24
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,154.64.216.0/21
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,38.107.88.0/21
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,198.52.241.0/24
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,72.46.157.0/24
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,69.24.199.0/24
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,74.119.24.0/24
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,208.81.59.0/24
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,167.94.224.0/23
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,200.5.23.0/24
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,200.5.22.0/24
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,149.18.21.0/24
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,204.77.10.0/23
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,167.94.225.0/24
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,192.254.96.0/20
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,72.46.158.0/23
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,192.228.98.0/23
+isolated_islands_caribbean,PR,21559,OSNET,13692,NSP,60,104.238.232.0/23
+isolated_islands_caribbean,PR,400443,NOVANET PR,32884,NSP,60,141.193.44.0/22
+isolated_islands_caribbean,PR,400443,NOVANET PR,32884,NSP,60,23.132.152.0/24
+isolated_islands_caribbean,PR,400443,NOVANET PR,32884,NSP,60,2606:b7c0::/32
+isolated_islands_caribbean,PR,6208,FiberX,28388,NSP,60,154.64.223.0/24
+isolated_islands_caribbean,PR,6208,FiberX,28388,NSP,60,199.116.63.0/24
+isolated_islands_caribbean,PR,6208,FiberX,28388,NSP,60,2604:fcc0::/32
+isolated_islands_caribbean,PR,6208,FiberX,28388,NSP,60,104.238.194.0/24
+isolated_islands_caribbean,PR,6208,FiberX,28388,NSP,60,38.158.208.0/20
+isolated_islands_caribbean,PR,6208,FiberX,28388,NSP,60,2604:fcc0:5000::/48
+isolated_islands_caribbean,PR,23114,"Critical Hub Networks, Inc.",4022,NSP,60,38.93.160.0/21
+isolated_islands_caribbean,PR,23114,"Critical Hub Networks, Inc.",4022,NSP,60,209.91.226.0/23
+isolated_islands_caribbean,PR,23114,"Critical Hub Networks, Inc.",4022,NSP,60,209.91.230.0/23
+isolated_islands_caribbean,PR,23114,"Critical Hub Networks, Inc.",4022,NSP,60,209.91.200.0/21
+isolated_islands_caribbean,PR,23114,"Critical Hub Networks, Inc.",4022,NSP,60,209.91.192.0/18
+isolated_islands_caribbean,PR,23114,"Critical Hub Networks, Inc.",4022,NSP,60,38.92.200.0/21
+isolated_islands_caribbean,PR,23114,"Critical Hub Networks, Inc.",4022,NSP,60,2607:f00::/32
+isolated_islands_caribbean,PR,23114,"Critical Hub Networks, Inc.",4022,NSP,60,38.27.96.0/21
+isolated_islands_caribbean,PR,23114,"Critical Hub Networks, Inc.",4022,NSP,60,209.91.218.0/23
+isolated_islands_caribbean,PR,23114,"Critical Hub Networks, Inc.",4022,NSP,60,209.91.242.0/23
+isolated_islands_caribbean,PR,23114,"Critical Hub Networks, Inc.",4022,NSP,60,209.91.208.0/23
+isolated_islands_caribbean,PR,23114,"Critical Hub Networks, Inc.",4022,NSP,60,38.90.24.0/21
+isolated_islands_caribbean,PR,23114,"Critical Hub Networks, Inc.",4022,NSP,60,209.91.232.0/21
+isolated_islands_caribbean,PR,23114,"Critical Hub Networks, Inc.",4022,NSP,60,38.102.176.0/21
+isolated_islands_caribbean,PR,397939,BBR IT Synergy,24440,NSP,60,23.145.112.0/24
+isolated_islands_caribbean,PR,395471,Data@ccess Communication,25300,NSP,60,70.35.136.0/24
+isolated_islands_caribbean,PR,395471,Data@ccess Communication,25300,NSP,60,70.35.133.0/24
+isolated_islands_caribbean,PR,395471,Data@ccess Communication,25300,NSP,60,70.35.141.0/24
+isolated_islands_caribbean,PR,395471,Data@ccess Communication,25300,NSP,60,67.215.101.0/24
+isolated_islands_caribbean,PR,395471,Data@ccess Communication,25300,NSP,60,70.35.131.0/24
+isolated_islands_caribbean,PR,395471,Data@ccess Communication,25300,NSP,60,207.150.246.0/24
+isolated_islands_caribbean,PR,395471,Data@ccess Communication,25300,NSP,60,70.35.130.0/24
+isolated_islands_caribbean,PR,395471,Data@ccess Communication,25300,NSP,60,70.35.134.0/24
+isolated_islands_caribbean,PR,395471,Data@ccess Communication,25300,NSP,60,207.150.245.0/24
+isolated_islands_caribbean,PR,395471,Data@ccess Communication,25300,NSP,60,70.35.139.0/24
+isolated_islands_caribbean,PR,395471,Data@ccess Communication,25300,NSP,60,70.35.135.0/24
+isolated_islands_caribbean,PR,395471,Data@ccess Communication,25300,NSP,60,70.35.140.0/24
+isolated_islands_caribbean,PR,3838,Ubinet Wireless,28702,NSP,60,172.84.145.0/24
+isolated_islands_caribbean,PR,3838,Ubinet Wireless,28702,NSP,60,169.197.130.0/24
+isolated_islands_caribbean,PR,3838,Ubinet Wireless,28702,NSP,60,2606:2440::/36
+isolated_islands_caribbean,PR,396055,FiberX-PR,28388,NSP,60,2604:fcc0:8fa0::/44
+isolated_islands_caribbean,PR,396055,FiberX-PR,28388,NSP,60,2604:fcc0:8000::/36
+isolated_islands_caribbean,PR,396055,FiberX-PR,28388,NSP,60,38.158.208.0/22
+isolated_islands_caribbean,PR,23379,Blackburn Technologies II,19498,NSP,60,2604:98c0:1100::/41
+isolated_islands_caribbean,PR,23379,Blackburn Technologies II,19498,NSP,60,2604:98c0:4::/48
+isolated_islands_caribbean,PR,23379,Blackburn Technologies II,19498,NSP,60,23.167.48.0/24
+isolated_islands_caribbean,PR,23379,Blackburn Technologies II,19498,NSP,60,45.33.192.0/24
+isolated_islands_caribbean,PR,23379,Blackburn Technologies II,19498,NSP,60,2604:98c0::/32
+isolated_islands_caribbean,PR,23379,Blackburn Technologies II,19498,NSP,60,23.179.193.0/24
+isolated_islands_caribbean,PR,23379,Blackburn Technologies II,19498,NSP,60,2604:98c0:1000::/41
+isolated_islands_caribbean,PR,23379,Blackburn Technologies II,19498,NSP,60,23.179.192.0/24
+isolated_islands_caribbean,PR,23379,Blackburn Technologies II,19498,NSP,60,2604:98c0:1700::/41
+isolated_islands_caribbean,PR,23379,Blackburn Technologies II,19498,NSP,60,2604:98c0:1380::/41
+isolated_islands_caribbean,PR,23379,Blackburn Technologies II,19498,NSP,60,2604:98c0:1180::/41
+isolated_islands_caribbean,PR,23379,Blackburn Technologies II,19498,NSP,60,2604:98c0:1580::/41
+isolated_islands_caribbean,PR,23379,Blackburn Technologies II,19498,NSP,60,45.33.193.0/24
+isolated_islands_caribbean,PR,394590,SKYTECH,33986,NSP,60,23.144.104.0/24
+isolated_islands_caribbean,PR,394590,SKYTECH,33986,NSP,60,2607:ec0::/32
+isolated_islands_caribbean,PR,393573,Fuse Telecom,25032,NSP,60,196.12.166.0/24
+isolated_islands_caribbean,PR,393573,Fuse Telecom,25032,NSP,60,192.254.110.0/24
+isolated_islands_caribbean,PR,393573,Fuse Telecom,25032,NSP,60,216.39.232.0/22
+isolated_islands_caribbean,PR,393573,Fuse Telecom,25032,NSP,60,74.85.156.0/23
+isolated_islands_caribbean,PR,393573,Fuse Telecom,25032,NSP,60,2607:5980::/32
+isolated_islands_caribbean,PR,393573,Fuse Telecom,25032,NSP,60,172.96.168.0/22
+isolated_islands_caribbean,PR,393573,Fuse Telecom,25032,NSP,60,72.46.140.0/22
+isolated_islands_caribbean,PR,46962,HRCOM,29487,NSP,60,104.255.180.0/22
+isolated_islands_caribbean,PR,46962,HRCOM,29487,NSP,60,2606:2ac0::/48
+isolated_islands_caribbean,PR,46962,HRCOM,29487,NSP,60,2606:2ac0:8101::/48
+isolated_islands_caribbean,PR,46962,HRCOM,29487,NSP,60,64.93.69.0/24
+isolated_islands_caribbean,PR,46962,HRCOM,29487,NSP,60,64.93.68.0/24
+isolated_islands_caribbean,PR,46962,HRCOM,29487,NSP,60,64.93.71.0/24
+isolated_islands_caribbean,PR,46962,HRCOM,29487,NSP,60,2606:2ac0:8103::/48
+isolated_islands_caribbean,PR,46962,HRCOM,29487,NSP,60,2606:2ac0:8002::/48
+isolated_islands_caribbean,PR,46962,HRCOM,29487,NSP,60,23.133.120.0/24
+isolated_islands_caribbean,PR,46962,HRCOM,29487,NSP,60,2606:2ac0:8001::/48
+isolated_islands_caribbean,PR,46962,HRCOM,29487,NSP,60,64.93.70.0/24
+isolated_islands_caribbean,PR,46962,HRCOM,29487,NSP,60,2606:2ac0:8005::/48
+isolated_islands_caribbean,PR,46962,HRCOM,29487,NSP,60,2606:2ac0:8003::/48
+isolated_islands_caribbean,PR,46962,HRCOM,29487,NSP,60,2606:2ac0:8004::/48
+isolated_islands_caribbean,PR,46962,HRCOM,29487,NSP,60,66.118.224.0/22
+isolated_islands_caribbean,PR,46962,HRCOM,29487,NSP,60,2606:2ac0::/33
+isolated_islands_caribbean,PR,46962,HRCOM,29487,NSP,60,2606:2ac0:8102::/48
+isolated_islands_caribbean,PR,401831,VUVANET,41681,NSP,60,23.142.236.0/24
+isolated_islands_caribbean,PR,400333,JR Networks,32879,NSP,60,23.130.121.0/24
+isolated_islands_caribbean,PR,400333,JR Networks,32879,NSP,60,2606:98c0:8000::/33
+isolated_islands_caribbean,PR,400333,JR Networks,32879,NSP,60,23.130.120.0/24
+isolated_islands_caribbean,PR,400333,JR Networks,32879,NSP,60,2606:98c0::/33
+isolated_islands_caribbean,PR,399826,Webiffi LLC,32892,NSP,60,23.131.56.0/24
+isolated_islands_caribbean,PR,398326,IMINTERNET,29971,NSP,60,165.140.162.0/24
+isolated_islands_caribbean,PR,398326,IMINTERNET,29971,NSP,60,2605:db40::/33
+isolated_islands_caribbean,PR,398326,IMINTERNET,29971,NSP,60,165.140.160.0/24
+isolated_islands_caribbean,PR,398326,IMINTERNET,29971,NSP,60,2605:db40:8000::/33
+isolated_islands_caribbean,PR,398326,IMINTERNET,29971,NSP,60,23.134.8.0/24
+isolated_islands_caribbean,PR,398326,IMINTERNET,29971,NSP,60,165.140.163.0/24
+isolated_islands_caribbean,PR,398326,IMINTERNET,29971,NSP,60,165.140.160.0/22
+isolated_islands_caribbean,PR,398326,IMINTERNET,29971,NSP,60,165.140.161.0/24
+isolated_islands_caribbean,PR,394743,Gigifiber Networks,24405,NSP,60,23.167.81.0/24
+isolated_islands_caribbean,PR,394743,Gigifiber Networks,24405,NSP,60,23.167.80.0/24
+isolated_islands_caribbean,PR,394743,Gigifiber Networks,24405,NSP,60,2605:12c0::/32
+isolated_islands_caribbean,PR,394743,Gigifiber Networks,24405,NSP,60,23.172.32.0/24
 isolated_islands_caribbean,CW,26505,E-Commerce Park N.V.,1235,NSP,60,186.190.242.0/24
 isolated_islands_caribbean,CW,26505,E-Commerce Park N.V.,1235,NSP,60,200.124.130.0/24
 isolated_islands_caribbean,CW,26505,E-Commerce Park N.V.,1235,NSP,60,186.190.244.0/24
