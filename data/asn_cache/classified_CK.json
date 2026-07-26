@@ -1,0 +1,1 @@
+{"_ts": 1785030967.0118096, "data": {"10131": {"asn": "10131", "name": "Telecom Cook Islands", "info_type": "", "org_id": 33698, "accepted": false, "score": 10, "reason": "default_reject"}, "152093": {"asn": "152093", "name": null, "info_type": null, "org_id": null, "accepted": false, "score": 10, "reason": "not_in_peeringdb"}}}

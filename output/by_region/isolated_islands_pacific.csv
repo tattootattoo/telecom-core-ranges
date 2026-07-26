@@ -1,0 +1,50 @@
+region,country,asn,org_name,org_id,info_type,score,prefix
+isolated_islands_pacific,FJ,9241,Fiji International Telecommunications,18576,Cable/DSL/ISP,45,113.20.72.0/24
+isolated_islands_pacific,FJ,9241,Fiji International Telecommunications,18576,Cable/DSL/ISP,45,113.20.64.0/19
+isolated_islands_pacific,FJ,9241,Fiji International Telecommunications,18576,Cable/DSL/ISP,45,113.20.70.0/24
+isolated_islands_pacific,FJ,9241,Fiji International Telecommunications,18576,Cable/DSL/ISP,45,113.20.89.0/24
+isolated_islands_pacific,FJ,9241,Fiji International Telecommunications,18576,Cable/DSL/ISP,45,202.170.32.0/20
+isolated_islands_pacific,PG,17828,PNG DataCo Limited,14197,NSP,60,202.58.128.0/22
+isolated_islands_pacific,PG,17828,PNG DataCo Limited,14197,NSP,60,202.165.203.0/24
+isolated_islands_pacific,PG,17828,PNG DataCo Limited,14197,NSP,60,202.165.192.0/20
+isolated_islands_pacific,PG,17828,PNG DataCo Limited,14197,NSP,60,202.1.32.0/20
+isolated_islands_pacific,PG,17828,PNG DataCo Limited,14197,NSP,60,202.165.204.0/24
+isolated_islands_pacific,PG,17828,PNG DataCo Limited,14197,NSP,60,202.165.194.0/24
+isolated_islands_pacific,PG,17828,PNG DataCo Limited,14197,NSP,60,103.49.207.0/24
+isolated_islands_pacific,PG,17828,PNG DataCo Limited,14197,NSP,60,103.20.76.0/22
+isolated_islands_pacific,PG,17828,PNG DataCo Limited,14197,NSP,60,202.165.197.0/24
+isolated_islands_pacific,PG,147024,bikpla,37247,NSP,60,103.173.32.0/23
+isolated_islands_pacific,PG,147024,bikpla,37247,NSP,60,103.173.33.0/24
+isolated_islands_pacific,PG,147024,bikpla,37247,NSP,60,103.173.32.0/24
+isolated_islands_pacific,SB,139609,Solomon Islands Submarine Cable Company,23922,NSP,60,103.142.98.0/24
+isolated_islands_pacific,SB,139609,Solomon Islands Submarine Cable Company,23922,NSP,60,103.142.99.0/24
+isolated_islands_pacific,SB,139609,Solomon Islands Submarine Cable Company,23922,NSP,60,2001:df1:3b80::/48
+isolated_islands_pacific,TO,132579,Tonga Cable Limited,15224,NSP,60,2406:1500:1::/48
+isolated_islands_pacific,TO,132579,Tonga Cable Limited,15224,NSP,60,103.245.162.0/24
+isolated_islands_pacific,TO,132579,Tonga Cable Limited,15224,NSP,60,103.245.160.0/23
+isolated_islands_pacific,NR,55722,CenPac Net,44573,NSP,60,203.98.224.0/23
+isolated_islands_pacific,NR,55722,CenPac Net,44573,NSP,60,2403:f600::/32
+isolated_islands_pacific,NR,55722,CenPac Net,44573,NSP,60,203.98.240.0/20
+isolated_islands_pacific,NR,55722,CenPac Net,44573,NSP,60,203.98.224.0/19
+isolated_islands_pacific,NR,55722,CenPac Net,44573,NSP,60,203.98.224.0/20
+isolated_islands_pacific,NC,18200,O.P.T. New Caledonia,9598,NSP,60,61.5.208.0/24
+isolated_islands_pacific,NC,18200,O.P.T. New Caledonia,9598,NSP,60,202.87.128.0/19
+isolated_islands_pacific,NC,18200,O.P.T. New Caledonia,9598,NSP,60,43.224.192.0/22
+isolated_islands_pacific,NC,18200,O.P.T. New Caledonia,9598,NSP,60,202.87.135.0/24
+isolated_islands_pacific,NC,18200,O.P.T. New Caledonia,9598,NSP,60,180.214.100.0/22
+isolated_islands_pacific,NC,18200,O.P.T. New Caledonia,9598,NSP,60,2404:2200:22::/48
+isolated_islands_pacific,NC,18200,O.P.T. New Caledonia,9598,NSP,60,180.214.96.0/22
+isolated_islands_pacific,NC,18200,O.P.T. New Caledonia,9598,NSP,60,114.69.200.0/22
+isolated_islands_pacific,NC,18200,O.P.T. New Caledonia,9598,NSP,60,114.69.192.0/19
+isolated_islands_pacific,NC,18200,O.P.T. New Caledonia,9598,NSP,60,202.87.138.0/24
+isolated_islands_pacific,NC,18200,O.P.T. New Caledonia,9598,NSP,60,202.87.156.0/24
+isolated_islands_pacific,NC,18200,O.P.T. New Caledonia,9598,NSP,60,101.101.0.0/18
+isolated_islands_pacific,NC,18200,O.P.T. New Caledonia,9598,NSP,60,103.43.156.0/22
+isolated_islands_pacific,NC,18200,O.P.T. New Caledonia,9598,NSP,60,114.69.208.0/21
+isolated_islands_pacific,NC,18200,O.P.T. New Caledonia,9598,NSP,60,114.69.204.0/24
+isolated_islands_pacific,NC,18200,O.P.T. New Caledonia,9598,NSP,60,61.5.208.0/20
+isolated_islands_pacific,NC,18200,O.P.T. New Caledonia,9598,NSP,60,2404:2200::/32
+isolated_islands_pacific,NC,18200,O.P.T. New Caledonia,9598,NSP,60,202.87.129.0/24
+isolated_islands_pacific,NC,18200,O.P.T. New Caledonia,9598,NSP,60,43.224.195.0/24
+isolated_islands_pacific,NC,18200,O.P.T. New Caledonia,9598,NSP,60,2404:2200:24::/46
+isolated_islands_pacific,NC,18200,O.P.T. New Caledonia,9598,NSP,60,2404:2200:10::/48

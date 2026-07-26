@@ -1,0 +1,468 @@
+region,country,asn,org_name,org_id,info_type,score,prefix
+isolated_islands_caribbean,DO,64126,DOMINICAN TELECOM PRIME DTP,26837,NSP,60,154.88.128.0/17
+isolated_islands_caribbean,DO,64126,DOMINICAN TELECOM PRIME DTP,26837,NSP,60,2803:6de0::/32
+isolated_islands_caribbean,DO,64126,DOMINICAN TELECOM PRIME DTP,26837,NSP,60,156.248.128.0/17
+isolated_islands_caribbean,DO,64126,DOMINICAN TELECOM PRIME DTP,26837,NSP,60,154.88.187.0/24
+isolated_islands_caribbean,DO,64126,DOMINICAN TELECOM PRIME DTP,26837,NSP,60,154.88.129.0/24
+isolated_islands_caribbean,DO,64126,DOMINICAN TELECOM PRIME DTP,26837,NSP,60,131.108.236.0/22
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,179.43.208.0/20
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,186.33.124.0/22
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,186.1.112.0/20
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,186.1.96.0/20
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,2803:1400:8000::/48
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,179.43.240.0/20
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,190.122.105.0/24
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,179.43.204.0/22
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,190.122.115.0/24
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,190.122.96.0/20
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,190.122.112.0/20
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,2803:1400:8001::/48
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,186.33.80.0/20
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,186.33.120.0/22
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,179.43.192.0/21
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,190.122.112.0/24
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,179.43.200.0/22
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,190.122.116.0/24
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,190.122.123.0/24
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,190.122.119.0/24
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,190.122.118.0/24
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,190.122.122.0/24
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,186.33.112.0/20
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,186.33.64.0/18
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,186.1.80.0/20
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,186.1.64.0/18
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,38.189.128.0/20
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,190.122.120.0/24
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,38.189.144.0/20
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,2803:5ce0:700::/40
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,186.1.64.0/20
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,38.189.128.0/19
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,200.26.168.0/21
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,186.33.64.0/20
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,2803:1400::/32
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,190.122.98.0/24
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,190.122.114.0/24
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,186.33.116.0/22
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,179.43.224.0/20
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,186.33.96.0/20
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,38.189.128.0/21
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,190.122.113.0/24
+isolated_islands_caribbean,DO,27887,WIND Telecom S.A.,5855,NSP,60,179.43.192.0/18
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1511::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1516::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:19::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,179.49.203.0/24
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:932::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:39::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:909::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:2806::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:2525::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:832::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:8536::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:247::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,179.49.202.0/24
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1908::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1502::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:18::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:809::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:141::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:828::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1814::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:7016::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:2808::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:33::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:15::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:9001::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:2501::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,38.159.226.0/24
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:2101::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1528::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1519::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:26::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:4301::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:824::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:913::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:239::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:23::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:946::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:3406::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:2131::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,38.131.62.0/24
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:235::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,38.52.221.0/24
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:816::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,38.159.226.0/23
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:32::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:410::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:106::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,149.2.83.0/24
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:3410::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:8::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:3409::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:819::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1702::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:2809::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:126::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:8888::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:8525::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:143::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:16::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1731::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:7505::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:3604::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,149.2.82.0/23
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:4::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,38.52.220.0/24
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1100::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:3517::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:7002::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:2331::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:7507::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10::/32
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:234::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:240::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:944::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:37::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:2130::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,38.95.88.0/24
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1302::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:3008::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,38.95.89.0/24
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:2100::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1342::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1010::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:9025::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:939::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,38.52.223.0/24
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,38.159.227.0/24
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:837::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:5419::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:242::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:9005::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:3002::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:3408::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:7::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:139::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:841::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:818::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1904::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1420::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:8510::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:136::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:28::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1529::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:3609::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:918::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:225::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:12::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:2904::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:2503::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:2408::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:17::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:40::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:2900::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:835::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:845::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1424::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,38.95.88.0/23
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:205::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:25::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:2230::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:915::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:9020::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,38.52.222.0/24
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1905::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:10::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:130::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:3001::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:107::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:720::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:833::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:29::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1425::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:3910::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:846::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1802::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:2104::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:22::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:844::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:9016::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1924::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:3402::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:713::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:838::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:9539::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,38.131.62.0/23
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:102::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:912::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1423::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1401::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:9042::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:701::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,38.52.220.0/22
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:38::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:2516::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,38.131.63.0/24
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,149.2.82.0/24
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1400::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,38.7.137.0/24
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:947::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1726::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1830::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:8530::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:821::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:7032::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:31::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:319::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:806::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:182::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:9532::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:9035::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:3::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:9000::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:14::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:3901::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:732::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:914::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:144::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:8540::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:2510::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:318::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1728::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:2430::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:903::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:2905::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:9534::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:13::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:24::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:834::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:831::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1909::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,179.49.202.0/23
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:2906::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1517::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:2105::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1503::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:826::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1922::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:813::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:231::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:113::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:2::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:228::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:208::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:34::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:502::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1901::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:3608::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:36::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:926::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1304::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1727::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1505::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:800::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:3516::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:6::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:2132::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1825::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:21::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1330::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:2037::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:11::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:901::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:30::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:9120::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1600::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1730::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1816::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:836::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:5::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:3004::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1543::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:2128::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1418::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1703::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:843::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:940::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:9::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:124::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:2035::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1844::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:8532::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:1740::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:408::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:3852::/48
+isolated_islands_caribbean,DO,272112,TELECABLE DOMINICANO,34354,NSP,60,2803:f10:419::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:41::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,179.51.77.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:138f::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,186.148.90.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,45.169.192.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:178::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:1388::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:26::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:27::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,170.244.40.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:138e::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:13a4::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,138.99.236.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:50::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,179.51.67.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,201.49.186.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:171::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:33::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:161::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,168.228.232.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,103.8.95.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:13a0::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,103.7.135.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:1395::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,191.97.105.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,191.97.107.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,103.8.93.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,191.97.106.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:125::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:145::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:45::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:128::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:169::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:1390::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:22::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,103.8.94.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:25::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,170.244.42.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:122::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,179.51.75.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,179.51.71.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:36::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,5.183.80.0/22
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:57::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:1398::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,179.51.69.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:67::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:69::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,179.51.72.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:24::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:1392::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:30::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,179.51.79.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,45.169.192.0/22
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,168.228.235.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:124::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:78::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,168.205.171.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,179.51.78.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,186.148.94.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:111::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:71::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:132::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,179.51.73.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:1393::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:157::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:1389::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:23::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,138.99.236.0/23
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,179.51.64.0/20
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,103.8.92.0/22
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,45.169.193.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:139d::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,5.183.82.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,168.228.234.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,138.99.237.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:104::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:28::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:61::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:40::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,186.148.95.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,5.183.83.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:1391::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:129::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,181.189.226.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:12::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,170.244.43.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:4::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:123::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:143::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,179.51.74.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,45.169.195.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:167::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,168.228.233.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,179.51.65.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:139c::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,138.99.239.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:126::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:150::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,103.8.92.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,45.169.194.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:127::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:139a::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:133::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,179.51.76.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,191.97.104.0/22
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:136::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:13a3::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:121::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,103.71.62.0/23
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:112::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:141::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,179.51.66.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,186.148.88.0/21
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,186.148.88.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,168.228.232.0/22
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,168.205.170.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,186.148.93.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:139b::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:34::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:3::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:1396::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:32::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:33a0::/32
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:21::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:1394::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:11::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:134::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00::/32
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,5.183.80.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:138b::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:139f::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:140::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:165::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:65::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,170.244.40.0/22
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:13a2::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,201.49.187.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,179.51.70.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,179.51.68.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,5.183.81.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,170.244.41.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:130::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:1397::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,138.99.236.0/22
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,186.148.92.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,186.148.91.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,138.99.238.0/24
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,103.207.44.0/22
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:29::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,168.205.170.0/23
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:43::/48
+isolated_islands_caribbean,DO,52471,Columbus Networks Dominicana,18394,NSP,60,2803:ab00:103::/48
+isolated_islands_caribbean,DO,273242,PIT DOMINICANO - Transit,38152,NSP,70,2801:19:7802::/48
+isolated_islands_caribbean,DO,273242,PIT DOMINICANO - Transit,38152,NSP,70,2801:19:7800::/48
+isolated_islands_caribbean,DO,273242,PIT DOMINICANO - Transit,38152,NSP,70,45.68.60.0/24
+isolated_islands_caribbean,DO,273242,PIT DOMINICANO - Transit,38152,NSP,70,45.68.61.0/24
+isolated_islands_caribbean,DO,273242,PIT DOMINICANO - Transit,38152,NSP,70,45.68.107.0/24
+isolated_islands_caribbean,DO,273242,PIT DOMINICANO - Transit,38152,NSP,70,45.68.106.0/24
+isolated_islands_caribbean,DO,273242,PIT DOMINICANO - Transit,38152,NSP,70,2801:19:7801::/48
+isolated_islands_caribbean,DO,267700,GCHOICENET,22811,NSP,60,45.164.13.0/24
+isolated_islands_caribbean,DO,267700,GCHOICENET,22811,NSP,60,38.78.150.0/24
+isolated_islands_caribbean,DO,267700,GCHOICENET,22811,NSP,60,45.164.14.0/24
+isolated_islands_caribbean,DO,267700,GCHOICENET,22811,NSP,60,45.164.12.0/24
+isolated_islands_caribbean,DO,267700,GCHOICENET,22811,NSP,60,2803:d1a0:8000::/33
+isolated_islands_caribbean,DO,267700,GCHOICENET,22811,NSP,60,45.164.15.0/24
+isolated_islands_caribbean,DO,273867,STIX IP Transit,36356,NSP,70,2801:1f5:80::/41
+isolated_islands_caribbean,DO,273867,STIX IP Transit,36356,NSP,70,45.68.42.0/24
+isolated_islands_caribbean,DO,273867,STIX IP Transit,36356,NSP,70,45.68.41.0/24
+isolated_islands_caribbean,DO,273867,STIX IP Transit,36356,NSP,70,2801:1f5:40::/42
+isolated_islands_caribbean,DO,273867,STIX IP Transit,36356,NSP,70,45.68.43.0/24
